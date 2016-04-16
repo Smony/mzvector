@@ -1,0 +1,237 @@
+1460818513s:9781:"a:6:{s:5:"mtime";i:1459109452;s:7:"content";s:4809:"description = "Default layout"
+==
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>«MZ vector» Юридичне бюро - {{ this.page.title }}</title>
+        <meta name="description" content="{{ this.page.meta_description }}">
+        <meta name="title" content="{{ this.page.meta_title }}">
+        <meta name="author" content="www.symonchuk.com">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/png" href="{{ 'assets/images/favicon.png'|theme }}" />
+        {% styles %}
+        <link href="{{ [
+            'assets/css/theme.css',		
+            'assets/css/main.css'
+        ]|theme }}" rel="stylesheet">
+		
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+    </head>
+    <body id="page-top" class="index">
+		<!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">MZ vector</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">Послуги</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">Про компанію</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#team">Наші фахівці та клієнти</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Контакти</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+		
+		<!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in">Текст </div>
+                <div class="intro-heading">Текст 2</div>
+                <a href="#services" class="page-scroll btn btn-xl">Послуги</a>
+            </div>
+        </div>
+    </header>
+		
+		{% page %}
+
+		{% partial "footer" %}
+		
+		<footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">&copy; Copyright 2016</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>                   
+                        <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li>Designed  by<a href="http://symonchuk.com/" target="_blank"> Symonchuk</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+        <!-- Scripts -->
+        <script src="{{ [
+            'assets/javascript/jquery.js',
+			'assets/vendor/bootstrap/js/bootstrap.min.js',
+			'assets/javascript/easing.min.js',			
+			'assets/javascript/classie.js',			
+			'assets/javascript/cbpAnimatedHeader.js',			
+            'assets/javascript/app.js'
+        ]|theme }}"></script>
+        {% framework extras %}
+        {% scripts %}
+
+    </body>
+</html>";s:7:"viewBag";a:0:{}s:8:"settings";a:2:{s:11:"description";s:14:"Default layout";s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:4775:"<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>«MZ vector» Юридичне бюро - {{ this.page.title }}</title>
+        <meta name="description" content="{{ this.page.meta_description }}">
+        <meta name="title" content="{{ this.page.meta_title }}">
+        <meta name="author" content="www.symonchuk.com">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/png" href="{{ 'assets/images/favicon.png'|theme }}" />
+        {% styles %}
+        <link href="{{ [
+            'assets/css/theme.css',		
+            'assets/css/main.css'
+        ]|theme }}" rel="stylesheet">
+		
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+    </head>
+    <body id="page-top" class="index">
+		<!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">MZ vector</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">Послуги</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">Про компанію</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#team">Наші фахівці та клієнти</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Контакти</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+		
+		<!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in">Текст </div>
+                <div class="intro-heading">Текст 2</div>
+                <a href="#services" class="page-scroll btn btn-xl">Послуги</a>
+            </div>
+        </div>
+    </header>
+		
+		{% page %}
+
+		{% partial "footer" %}
+		
+		<footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">&copy; Copyright 2016</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>                   
+                        <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li>Designed  by<a href="http://symonchuk.com/" target="_blank"> Symonchuk</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+        <!-- Scripts -->
+        <script src="{{ [
+            'assets/javascript/jquery.js',
+			'assets/vendor/bootstrap/js/bootstrap.min.js',
+			'assets/javascript/easing.min.js',			
+			'assets/javascript/classie.js',			
+			'assets/javascript/cbpAnimatedHeader.js',			
+            'assets/javascript/app.js'
+        ]|theme }}"></script>
+        {% framework extras %}
+        {% scripts %}
+
+    </body>
+</html>";}";
