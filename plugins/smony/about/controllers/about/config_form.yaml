@@ -1,0 +1,31 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: About
+
+# Model Form Field configuration
+form: $/smony/about/models/about/fields.yaml
+
+# Model Class name
+modelClass: Smony\About\Models\About
+
+# Default redirect location
+defaultRedirect: smony/about/about
+
+# Create page
+create:
+    title: Create About
+    redirect: smony/about/about/update/:id
+    redirectClose: smony/about/about
+
+# Update page
+update:
+    title: Edit About
+    redirect: smony/about/about
+    redirectClose: smony/about/about
+
+# Preview page
+preview:
+    title: Preview About

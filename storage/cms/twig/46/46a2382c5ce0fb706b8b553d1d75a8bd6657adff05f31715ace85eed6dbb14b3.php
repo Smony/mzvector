@@ -47,7 +47,8 @@ class __TwigTemplate_795ded02071d9e61c8748c24af0be1a0ff3d6cbe322de96369eb174d702
         echo $this->env->getExtension('CMS')->themeFilter(array(0 => "assets/css/theme.css", 1 => "assets/css/main.css"));
         // line 15
         echo "\" rel=\"stylesheet\">
-\t\t
+
+        <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.1/css/font-awesome.min.css\">
 \t\t<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 \t\t<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 \t\t<!--[if lt IE 9]>
@@ -96,27 +97,52 @@ class __TwigTemplate_795ded02071d9e61c8748c24af0be1a0ff3d6cbe322de96369eb174d702
     </nav>
 \t\t
 \t\t<!-- Header -->
-    <header>
-        <div class=\"container\">
-            <div class=\"intro-text\">
-                <div class=\"intro-lead-in\">Текст </div>
-                <div class=\"intro-heading\">Текст 2</div>
-                <a href=\"#services\" class=\"page-scroll btn btn-xl\">Послуги</a>
+        ";
+        // line 66
+        $context['_parent'] = $context;
+        $context['_seq'] = twig_ensure_traversable($this->getAttribute((isset($context["myHead"]) ? $context["myHead"] : null), "getHeader", array()));
+        foreach ($context['_seq'] as $context["_key"] => $context["head"]) {
+            // line 67
+            echo "        <header>
+            <img style=\"position: absolute; left: 0; z-index: -5;\" src=\"";
+            // line 68
+            echo twig_escape_filter($this->env, $this->getAttribute($this->getAttribute($context["head"], "attachments", array()), "path", array()), "html", null, true);
+            echo "\" alt=\"";
+            echo twig_escape_filter($this->env, $this->getAttribute($this->getAttribute((isset($context["experts"]) ? $context["experts"] : null), "attachments", array()), "title", array()), "html", null, true);
+            echo "\">
+            <div class=\"container\">
+                <div class=\"intro-text\">
+                    <div class=\"intro-lead-in\">";
+            // line 71
+            echo twig_escape_filter($this->env, $this->getAttribute($context["head"], "text_one", array()), "html", null, true);
+            echo "</div>
+                    <div class=\"intro-heading\">";
+            // line 72
+            echo twig_escape_filter($this->env, $this->getAttribute($context["head"], "text_two", array()), "html", null, true);
+            echo "</div>
+                    <a href=\"#services\" class=\"page-scroll btn btn-xl\">Послуги</a>
+                </div>
             </div>
-        </div>
-    </header>
-\t\t
-\t\t";
-        // line 75
-        echo $this->env->getExtension('CMS')->pageFunction();
-        // line 76
+
+        </header>
+        ";
+        }
+        $_parent = $context['_parent'];
+        unset($context['_seq'], $context['_iterated'], $context['_key'], $context['head'], $context['_parent'], $context['loop']);
+        $context = array_intersect_key($context, $_parent) + $_parent;
+        // line 79
         echo "
 \t\t";
-        // line 77
+        // line 80
+        echo $this->env->getExtension('CMS')->pageFunction();
+        // line 81
+        echo "
+\t\t";
+        // line 82
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('CMS')->partialFunction("footer"        , $context['__cms_partial_params']        );
         unset($context['__cms_partial_params']);
-        // line 78
+        // line 83
         echo "\t\t
 \t\t<footer>
         <div class=\"container\">
@@ -125,15 +151,37 @@ class __TwigTemplate_795ded02071d9e61c8748c24af0be1a0ff3d6cbe322de96369eb174d702
                     <span class=\"copyright\">&copy; Copyright 2016</span>
                 </div>
                 <div class=\"col-md-4\">
-                    <ul class=\"list-inline social-buttons\">
-                        <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter\"></i></a>
+
+                    ";
+        // line 92
+        $context['_parent'] = $context;
+        $context['_seq'] = twig_ensure_traversable($this->getAttribute((isset($context["myContact"]) ? $context["myContact"] : null), "getContact", array()));
+        foreach ($context['_seq'] as $context["_key"] => $context["contact"]) {
+            // line 93
+            echo "                    <ul class=\"list-inline social-buttons\">
+                        <li><a href=\"";
+            // line 94
+            echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "vk", array()), "html", null, true);
+            echo "\" target=\"_blank\"><i class=\"fa fa-vk\" aria-hidden=\"true\"></i></a>
                         </li>
-                        <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook\"></i></a>
+                        <li><a href=\"";
+            // line 96
+            echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "fb", array()), "html", null, true);
+            echo "\" target=\"_blank\"><i class=\"fa fa-facebook\"></i></a>
                         </li>                   
-                        <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin\"></i></a>
+                        <li><a href=\"";
+            // line 98
+            echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "in", array()), "html", null, true);
+            echo "\" target=\"_blank\"><i class=\"fa fa-linkedin\"></i></a>
                         </li>
                     </ul>
-                </div>
+                    ";
+        }
+        $_parent = $context['_parent'];
+        unset($context['_seq'], $context['_iterated'], $context['_key'], $context['contact'], $context['_parent'], $context['loop']);
+        $context = array_intersect_key($context, $_parent) + $_parent;
+        // line 102
+        echo "                </div>
                 <div class=\"col-md-4\">
                     <ul class=\"list-inline quicklinks\">
                         <li>Designed  by<a href=\"http://symonchuk.com/\" target=\"_blank\"> Symonchuk</a>
@@ -146,23 +194,23 @@ class __TwigTemplate_795ded02071d9e61c8748c24af0be1a0ff3d6cbe322de96369eb174d702
 
         <!-- Scripts -->
         <script src=\"";
-        // line 106
+        // line 114
         echo $this->env->getExtension('CMS')->themeFilter(array(0 => "assets/javascript/jquery.js", 1 => "assets/vendor/bootstrap/js/bootstrap.min.js", 2 => "assets/javascript/easing.min.js", 3 => "assets/javascript/classie.js", 4 => "assets/javascript/cbpAnimatedHeader.js", 5 => "assets/javascript/app.js"));
-        // line 113
+        // line 121
         echo "\"></script>
         ";
-        // line 114
+        // line 122
         echo '<script src="'. Request::getBasePath()
                 .'/modules/system/assets/js/framework.js"></script>'.PHP_EOL;
         echo '<script src="'. Request::getBasePath()
                     .'/modules/system/assets/js/framework.extras.js"></script>'.PHP_EOL;
         echo '<link href="'. Request::getBasePath()
                     .'/modules/system/assets/css/framework.extras.css" rel="stylesheet">'.PHP_EOL;
-        // line 115
+        // line 123
         echo "        ";
         echo $this->env->getExtension('CMS')->assetsFunction('js');
         echo $this->env->getExtension('CMS')->displayBlock('scripts');
-        // line 116
+        // line 124
         echo "
     </body>
 </html>";
@@ -180,7 +228,7 @@ class __TwigTemplate_795ded02071d9e61c8748c24af0be1a0ff3d6cbe322de96369eb174d702
 
     public function getDebugInfo()
     {
-        return array (  166 => 116,  162 => 115,  155 => 114,  152 => 113,  150 => 106,  120 => 78,  116 => 77,  113 => 76,  111 => 75,  49 => 15,  46 => 12,  43 => 11,  39 => 10,  33 => 7,  29 => 6,  25 => 5,  19 => 1,);
+        return array (  214 => 124,  210 => 123,  203 => 122,  200 => 121,  198 => 114,  184 => 102,  174 => 98,  169 => 96,  164 => 94,  161 => 93,  157 => 92,  146 => 83,  142 => 82,  139 => 81,  137 => 80,  134 => 79,  121 => 72,  117 => 71,  109 => 68,  106 => 67,  102 => 66,  49 => 15,  46 => 12,  43 => 11,  39 => 10,  33 => 7,  29 => 6,  25 => 5,  19 => 1,);
     }
 }
 /* <!DOCTYPE html>*/
@@ -198,7 +246,8 @@ class __TwigTemplate_795ded02071d9e61c8748c24af0be1a0ff3d6cbe322de96369eb174d702
 /*             'assets/css/theme.css',		*/
 /*             'assets/css/main.css'*/
 /*         ]|theme }}" rel="stylesheet">*/
-/* 		*/
+/* */
+/*         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.1/css/font-awesome.min.css">*/
 /* 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->*/
 /* 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->*/
 /* 		<!--[if lt IE 9]>*/
@@ -247,16 +296,20 @@ class __TwigTemplate_795ded02071d9e61c8748c24af0be1a0ff3d6cbe322de96369eb174d702
 /*     </nav>*/
 /* 		*/
 /* 		<!-- Header -->*/
-/*     <header>*/
-/*         <div class="container">*/
-/*             <div class="intro-text">*/
-/*                 <div class="intro-lead-in">Текст </div>*/
-/*                 <div class="intro-heading">Текст 2</div>*/
-/*                 <a href="#services" class="page-scroll btn btn-xl">Послуги</a>*/
+/*         {% for head in myHead.getHeader %}*/
+/*         <header>*/
+/*             <img style="position: absolute; left: 0; z-index: -5;" src="{{ head.attachments.path }}" alt="{{ experts.attachments.title }}">*/
+/*             <div class="container">*/
+/*                 <div class="intro-text">*/
+/*                     <div class="intro-lead-in">{{ head.text_one }}</div>*/
+/*                     <div class="intro-heading">{{ head.text_two }}</div>*/
+/*                     <a href="#services" class="page-scroll btn btn-xl">Послуги</a>*/
+/*                 </div>*/
 /*             </div>*/
-/*         </div>*/
-/*     </header>*/
-/* 		*/
+/* */
+/*         </header>*/
+/*         {% endfor %}*/
+/* */
 /* 		{% page %}*/
 /* */
 /* 		{% partial "footer" %}*/
@@ -268,14 +321,17 @@ class __TwigTemplate_795ded02071d9e61c8748c24af0be1a0ff3d6cbe322de96369eb174d702
 /*                     <span class="copyright">&copy; Copyright 2016</span>*/
 /*                 </div>*/
 /*                 <div class="col-md-4">*/
+/* */
+/*                     {% for contact in myContact.getContact %}*/
 /*                     <ul class="list-inline social-buttons">*/
-/*                         <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a>*/
+/*                         <li><a href="{{ contact.vk }}" target="_blank"><i class="fa fa-vk" aria-hidden="true"></i></a>*/
 /*                         </li>*/
-/*                         <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a>*/
+/*                         <li><a href="{{ contact.fb }}" target="_blank"><i class="fa fa-facebook"></i></a>*/
 /*                         </li>                   */
-/*                         <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>*/
+/*                         <li><a href="{{ contact.in }}" target="_blank"><i class="fa fa-linkedin"></i></a>*/
 /*                         </li>*/
 /*                     </ul>*/
+/*                     {% endfor %}*/
 /*                 </div>*/
 /*                 <div class="col-md-4">*/
 /*                     <ul class="list-inline quicklinks">*/

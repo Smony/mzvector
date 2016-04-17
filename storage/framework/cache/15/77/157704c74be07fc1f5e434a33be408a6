@@ -1,0 +1,17 @@
+1460857463s:531:"a:2:{s:5:"mtime";i:1460826736;s:7:"content";s:477:"
+<aside class="clients">
+    <div class="container">
+        <div class="row">
+
+            {% for clients in myClient.getClients %}
+
+            <div class="col-md-3 col-sm-6">
+                <a href="{{ clients.link }}" target="_blank">
+                    <img src="{{ clients.attachments.path }}" class="img-responsive img-centered" alt="{{ clients.attachments.title }}">
+                </a>
+            </div>
+            {% endfor %}
+
+        </div>
+    </div>
+</aside>";}";

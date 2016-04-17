@@ -1,0 +1,23 @@
+# ===================================
+#  List Column Definitions
+# ===================================
+
+columns:
+    id:
+        label: ID
+        searchable: true
+    phone:
+        label: PHONE
+        span: full
+    email:
+        label: EMAIL
+        span: left
+    vk:
+        label: VK
+        span: left
+    fb:
+        label: FB
+        span: left
+    in:
+        label: IN
+        span: left

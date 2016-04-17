@@ -1,0 +1,31 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: Contact
+
+# Model Form Field configuration
+form: $/smony/contact/models/contact/fields.yaml
+
+# Model Class name
+modelClass: Smony\Contact\Models\Contact
+
+# Default redirect location
+defaultRedirect: smony/contact/contact
+
+# Create page
+create:
+    title: Create Contact
+    redirect: smony/contact/contact/update/:id
+    redirectClose: smony/contact/contact
+
+# Update page
+update:
+    title: Edit Contact
+    redirect: smony/contact/contact
+    redirectClose: smony/contact/contact
+
+# Preview page
+preview:
+    title: Preview Contact

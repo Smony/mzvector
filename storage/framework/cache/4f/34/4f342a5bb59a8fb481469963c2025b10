@@ -1,4 +1,6 @@
-1460818513s:9781:"a:6:{s:5:"mtime";i:1459109452;s:7:"content";s:4809:"description = "Default layout"
+1460857354s:11062:"a:6:{s:5:"mtime";i:1460856752;s:7:"content";s:5447:"description = "Default layout"
+
+[myHead]
 ==
 <!DOCTYPE html>
 <html>
@@ -15,7 +17,8 @@
             'assets/css/theme.css',		
             'assets/css/main.css'
         ]|theme }}" rel="stylesheet">
-		
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.1/css/font-awesome.min.css">
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -64,16 +67,20 @@
     </nav>
 		
 		<!-- Header -->
-    <header>
-        <div class="container">
-            <div class="intro-text">
-                <div class="intro-lead-in">Текст </div>
-                <div class="intro-heading">Текст 2</div>
-                <a href="#services" class="page-scroll btn btn-xl">Послуги</a>
+        {% for head in myHead.getHeader %}
+        <header>
+            <img style="position: absolute; left: 0; z-index: -5;" src="{{ head.attachments.path }}" alt="{{ experts.attachments.title }}">
+            <div class="container">
+                <div class="intro-text">
+                    <div class="intro-lead-in">{{ head.text_one }}</div>
+                    <div class="intro-heading">{{ head.text_two }}</div>
+                    <a href="#services" class="page-scroll btn btn-xl">Послуги</a>
+                </div>
             </div>
-        </div>
-    </header>
-		
+
+        </header>
+        {% endfor %}
+
 		{% page %}
 
 		{% partial "footer" %}
@@ -85,14 +92,17 @@
                     <span class="copyright">&copy; Copyright 2016</span>
                 </div>
                 <div class="col-md-4">
+
+                    {% for contact in myContact.getContact %}
                     <ul class="list-inline social-buttons">
-                        <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <li><a href="{{ contact.vk }}" target="_blank"><i class="fa fa-vk" aria-hidden="true"></i></a>
                         </li>
-                        <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <li><a href="{{ contact.fb }}" target="_blank"><i class="fa fa-facebook"></i></a>
                         </li>                   
-                        <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                        <li><a href="{{ contact.in }}" target="_blank"><i class="fa fa-linkedin"></i></a>
                         </li>
                     </ul>
+                    {% endfor %}
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
@@ -117,7 +127,7 @@
         {% scripts %}
 
     </body>
-</html>";s:7:"viewBag";a:0:{}s:8:"settings";a:2:{s:11:"description";s:14:"Default layout";s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:4775:"<!DOCTYPE html>
+</html>";s:7:"viewBag";a:0:{}s:8:"settings";a:2:{s:11:"description";s:14:"Default layout";s:10:"components";a:1:{s:6:"myHead";a:0:{}}}s:4:"code";N;s:6:"markup";s:5399:"<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -132,7 +142,8 @@
             'assets/css/theme.css',		
             'assets/css/main.css'
         ]|theme }}" rel="stylesheet">
-		
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.1/css/font-awesome.min.css">
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -181,16 +192,20 @@
     </nav>
 		
 		<!-- Header -->
-    <header>
-        <div class="container">
-            <div class="intro-text">
-                <div class="intro-lead-in">Текст </div>
-                <div class="intro-heading">Текст 2</div>
-                <a href="#services" class="page-scroll btn btn-xl">Послуги</a>
+        {% for head in myHead.getHeader %}
+        <header>
+            <img style="position: absolute; left: 0; z-index: -5;" src="{{ head.attachments.path }}" alt="{{ experts.attachments.title }}">
+            <div class="container">
+                <div class="intro-text">
+                    <div class="intro-lead-in">{{ head.text_one }}</div>
+                    <div class="intro-heading">{{ head.text_two }}</div>
+                    <a href="#services" class="page-scroll btn btn-xl">Послуги</a>
+                </div>
             </div>
-        </div>
-    </header>
-		
+
+        </header>
+        {% endfor %}
+
 		{% page %}
 
 		{% partial "footer" %}
@@ -202,14 +217,17 @@
                     <span class="copyright">&copy; Copyright 2016</span>
                 </div>
                 <div class="col-md-4">
+
+                    {% for contact in myContact.getContact %}
                     <ul class="list-inline social-buttons">
-                        <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <li><a href="{{ contact.vk }}" target="_blank"><i class="fa fa-vk" aria-hidden="true"></i></a>
                         </li>
-                        <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <li><a href="{{ contact.fb }}" target="_blank"><i class="fa fa-facebook"></i></a>
                         </li>                   
-                        <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                        <li><a href="{{ contact.in }}" target="_blank"><i class="fa fa-linkedin"></i></a>
                         </li>
                     </ul>
+                    {% endfor %}
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">

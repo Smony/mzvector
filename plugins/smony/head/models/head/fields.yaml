@@ -1,0 +1,15 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    id:
+        label: ID
+        disabled: true
+    text_one:
+        label: TEXT ONE
+    text_two:
+        label: TEXT TWO
+    attachments:
+        label: MAIN IMAGE
+        type: fileupload

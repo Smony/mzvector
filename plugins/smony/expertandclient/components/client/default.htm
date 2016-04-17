@@ -1,0 +1,17 @@
+
+<aside class="clients">
+    <div class="container">
+        <div class="row">
+
+            {% for clients in myClient.getClients %}
+
+            <div class="col-md-3 col-sm-6">
+                <a href="{{ clients.link }}" target="_blank">
+                    <img src="{{ clients.attachments.path }}" class="img-responsive img-centered" alt="{{ clients.attachments.title }}">
+                </a>
+            </div>
+            {% endfor %}
+
+        </div>
+    </div>
+</aside>

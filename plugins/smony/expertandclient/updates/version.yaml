@@ -1,0 +1,7 @@
+1.0.1: First version of expertandclient
+1.0.2:
+  - Create table experts
+  - create_experts_table.php
+1.0.3:
+  - Create table clients
+  - create_clients_table.php

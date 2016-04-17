@@ -188,118 +188,99 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
     </section>
 
     <!-- Team Section -->
-    <section id=\"team\" class=\"bg-light-gray\">
-        <div class=\"container\">
-            <div class=\"row\">
-                <div class=\"col-lg-12 text-center\">
-                    <h2 class=\"section-heading\">Наші фахівці та клієнти</h2>
-                    <h3 class=\"section-subheading text-muted\">Внешнего вида контента, просмотра шрифтов, абзацев, отступов и проектах, ориентированных.</h3>
-                </div>
-            </div>
-            <div class=\"row\">
-\t\t\t
-           
-\t\t\t\t<div class=\"col-sm-4\">
-                    <div class=\"team-member\">
-                        <img src=\"http://mzvector.com.ua/storage/app/media/1-1.jpg\" class=\"img-responsive img-circle\" alt=\"\">
-                        <h4>Имя Фамилия</h4>
-                        <p class=\"text-muted\">дожность</p>
-                        <ul class=\"list-inline social-buttons\">
-                            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter\"></i></a>
-                            </li>
-                            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook\"></i></a>
-                            </li>
-                            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin\"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-\t\t\t\t<div class=\"col-sm-4\">
-                    <div class=\"team-member\">
-                        <img src=\"http://mzvector.com.ua/storage/app/media/1-1.jpg\" class=\"img-responsive img-circle\" alt=\"\">
-                        <h4>Имя Фамилия</h4>
-                        <p class=\"text-muted\">дожность</p>
-                        <ul class=\"list-inline social-buttons\">
-                            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter\"></i></a>
-                            </li>
-                            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook\"></i></a>
-                            </li>
-                            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin\"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-\t\t\t\t<div class=\"col-sm-4\">
-                    <div class=\"team-member\">
-                        <img src=\"http://mzvector.com.ua/storage/app/media/1-1.jpg\" class=\"img-responsive img-circle\" alt=\"\">
-                        <h4>Имя Фамилия</h4>
-                        <p class=\"text-muted\">дожность</p>
-                        <ul class=\"list-inline social-buttons\">
-                            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter\"></i></a>
-                            </li>
-                            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook\"></i></a>
-                            </li>
-                            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin\"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-              
-\t\t\t\t
-            </div>
-            <div class=\"row\">
-                <div class=\"col-lg-8 col-lg-offset-2 text-center\">
-                    <p class=\"large text-muted\">Иные буквы встречаются с языками. Lorem обязан древнеримскому философу цицерону, ведь именно.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
+    ";
+        // line 173
+        $context['__cms_component_params'] = [];
+        echo $this->env->getExtension('CMS')->componentFunction("myExpert"        , $context['__cms_component_params']        );
+        unset($context['__cms_component_params']);
+        // line 174
+        echo "    
     <!-- Clients Aside -->
-    <aside class=\"clients\">
-        <div class=\"container\">
-            <div class=\"row\">
-               
-\t\t\t   <div class=\"col-md-3 col-sm-6\">
-                    <a href=\"http://treck.com.ua/\" target=\"_blank\">
-                        <img src=\"http://mzvector.com.ua/storage/app/media/logo.png\" class=\"img-responsive img-centered\" alt=\"\">
-                    </a>
-                </div>
-\t\t\t\t<div class=\"col-md-3 col-sm-6\">
-                    <a href=\"http://treck.com.ua/\" target=\"_blank\">
-                        <img src=\"http://mzvector.com.ua/storage/app/media/logo.png\" class=\"img-responsive img-centered\" alt=\"\">
-                    </a>
-                </div>
-\t\t\t\t<div class=\"col-md-3 col-sm-6\">
-                    <a href=\"http://treck.com.ua/\" target=\"_blank\">
-                        <img src=\"http://mzvector.com.ua/storage/app/media/logo.png\" class=\"img-responsive img-centered\" alt=\"\">
-                    </a>
-                </div>
-\t\t\t\t<div class=\"col-md-3 col-sm-6\">
-                    <a href=\"http://treck.com.ua/\" target=\"_blank\">
-                        <img src=\"http://mzvector.com.ua/storage/app/media/logo.png\" class=\"img-responsive img-centered\" alt=\"\">
-                    </a>
-                </div>
-\t\t\t\t
-               
-            </div>
-        </div>
-    </aside>
-    
+    ";
+        // line 176
+        $context['__cms_component_params'] = [];
+        echo $this->env->getExtension('CMS')->componentFunction("myClient"        , $context['__cms_component_params']        );
+        unset($context['__cms_component_params']);
+        // line 177
+        echo "
+
     <!-- Contact Section -->
     <section id=\"contact\">
         <div class=\"container\">
             <div class=\"row\">
                 <div class=\"col-lg-12 text-center\">
                     <h2 class=\"section-heading\">Контакты</h2>
-                    <h3 class=\"section-subheading text-muted\">Оценке качества восприятия макета не имеет никакого отношения.</h3>
+                    <h3 class=\"section-subheading text-muted\">Для связи с нами используйте форму ниже либо указанную контактную информацию.</h3>
                 </div>
             </div>
             <div class=\"row\">
                 <div class=\"col-lg-12\">
-\t\t\t\t
-\t\t\t\t\t\t<div style=\"height: 400px;\"></div>
-\t\t\t\t\t\t
+                    <form name=\"sentMessage\" id=\"contactForm\" novalidate>
+                        <div class=\"row\">
+                            <div class=\"col-md-6\">
+
+
+                                ";
+        // line 195
+        $context['_parent'] = $context;
+        $context['_seq'] = twig_ensure_traversable($this->getAttribute((isset($context["myContact"]) ? $context["myContact"] : null), "getContact", array()));
+        foreach ($context['_seq'] as $context["_key"] => $context["contact"]) {
+            // line 196
+            echo "
+                                <div class=\"cont-list\"><i class=\"fa fa-map-marker\"></i>&nbsp;&nbsp;&nbsp;";
+            // line 197
+            echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "address", array()), "html", null, true);
+            echo "</div>
+                                <div class=\"cont-list\"><i class=\"fa fa-phone\"></i>&nbsp;&nbsp;&nbsp;";
+            // line 198
+            echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "phone", array()), "html", null, true);
+            echo "</div>
+                                <div class=\"cont-list\"><i class=\"fa fa-envelope\"></i>&nbsp;&nbsp;&nbsp;";
+            // line 199
+            echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "email", array()), "html", null, true);
+            echo "</div>
+
+                                ";
+        }
+        $_parent = $context['_parent'];
+        unset($context['_seq'], $context['_iterated'], $context['_key'], $context['contact'], $context['_parent'], $context['loop']);
+        $context = array_intersect_key($context, $_parent) + $_parent;
+        // line 202
+        echo "
+
+                                <div class=\"map_site\">";
+        // line 204
+        $context['__cms_component_params'] = [];
+        echo $this->env->getExtension('CMS')->componentFunction("googleMap"        , $context['__cms_component_params']        );
+        unset($context['__cms_component_params']);
+        echo "</div>
+
+                            </div>
+                            <div class=\"col-md-6\">
+                                <div class=\"form-group\">
+                                    <input type=\"text\" class=\"form-control\" placeholder=\"Your Name *\" id=\"name\" required data-validation-required-message=\"Please enter your name.\">
+                                    <p class=\"help-block text-danger\"></p>
+                                </div>
+                                <div class=\"form-group\">
+                                    <input type=\"email\" class=\"form-control\" placeholder=\"Your Email *\" id=\"email\" required data-validation-required-message=\"Please enter your email address.\">
+                                    <p class=\"help-block text-danger\"></p>
+                                </div>
+                                <div class=\"form-group\">
+                                    <input type=\"tel\" class=\"form-control\" placeholder=\"Your Phone *\" id=\"phone\" required data-validation-required-message=\"Please enter your phone number.\">
+                                    <p class=\"help-block text-danger\"></p>
+                                </div>
+                                <div class=\"form-group\">
+                                    <textarea class=\"form-control\" placeholder=\"Your Message *\" id=\"message\" required data-validation-required-message=\"Please enter a message.\"></textarea>
+                                    <p class=\"help-block text-danger\"></p>
+                                </div>
+                            </div>
+                            <div class=\"clearfix\"></div>
+                            <div class=\"col-lg-12 text-right\">
+                                <div id=\"success\"></div>
+                                <button type=\"submit\" class=\"btn btn-xl\">Надіслати повідомлення</button>
+                            </div>
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>
@@ -311,9 +292,14 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
         return "F:\\Dropbox\\OpenServer\\domains\\mzvector.local/themes/vsTheme/pages/home.htm";
     }
 
+    public function isTraitable()
+    {
+        return false;
+    }
+
     public function getDebugInfo()
     {
-        return array (  19 => 1,);
+        return array (  253 => 204,  249 => 202,  240 => 199,  236 => 198,  232 => 197,  229 => 196,  225 => 195,  205 => 177,  201 => 176,  197 => 174,  193 => 173,  19 => 1,);
     }
 }
 /* <!-- Services Section -->*/
@@ -488,118 +474,65 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
 /*     </section>*/
 /* */
 /*     <!-- Team Section -->*/
-/*     <section id="team" class="bg-light-gray">*/
-/*         <div class="container">*/
-/*             <div class="row">*/
-/*                 <div class="col-lg-12 text-center">*/
-/*                     <h2 class="section-heading">Наші фахівці та клієнти</h2>*/
-/*                     <h3 class="section-subheading text-muted">Внешнего вида контента, просмотра шрифтов, абзацев, отступов и проектах, ориентированных.</h3>*/
-/*                 </div>*/
-/*             </div>*/
-/*             <div class="row">*/
-/* 			*/
-/*            */
-/* 				<div class="col-sm-4">*/
-/*                     <div class="team-member">*/
-/*                         <img src="http://mzvector.com.ua/storage/app/media/1-1.jpg" class="img-responsive img-circle" alt="">*/
-/*                         <h4>Имя Фамилия</h4>*/
-/*                         <p class="text-muted">дожность</p>*/
-/*                         <ul class="list-inline social-buttons">*/
-/*                             <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a>*/
-/*                             </li>*/
-/*                             <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a>*/
-/*                             </li>*/
-/*                             <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>*/
-/*                             </li>*/
-/*                         </ul>*/
-/*                     </div>*/
-/*                 </div>*/
-/* 				<div class="col-sm-4">*/
-/*                     <div class="team-member">*/
-/*                         <img src="http://mzvector.com.ua/storage/app/media/1-1.jpg" class="img-responsive img-circle" alt="">*/
-/*                         <h4>Имя Фамилия</h4>*/
-/*                         <p class="text-muted">дожность</p>*/
-/*                         <ul class="list-inline social-buttons">*/
-/*                             <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a>*/
-/*                             </li>*/
-/*                             <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a>*/
-/*                             </li>*/
-/*                             <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>*/
-/*                             </li>*/
-/*                         </ul>*/
-/*                     </div>*/
-/*                 </div>*/
-/* 				<div class="col-sm-4">*/
-/*                     <div class="team-member">*/
-/*                         <img src="http://mzvector.com.ua/storage/app/media/1-1.jpg" class="img-responsive img-circle" alt="">*/
-/*                         <h4>Имя Фамилия</h4>*/
-/*                         <p class="text-muted">дожность</p>*/
-/*                         <ul class="list-inline social-buttons">*/
-/*                             <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a>*/
-/*                             </li>*/
-/*                             <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a>*/
-/*                             </li>*/
-/*                             <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>*/
-/*                             </li>*/
-/*                         </ul>*/
-/*                     </div>*/
-/*                 </div>*/
-/*               */
-/* 				*/
-/*             </div>*/
-/*             <div class="row">*/
-/*                 <div class="col-lg-8 col-lg-offset-2 text-center">*/
-/*                     <p class="large text-muted">Иные буквы встречаются с языками. Lorem обязан древнеримскому философу цицерону, ведь именно.</p>*/
-/*                 </div>*/
-/*             </div>*/
-/*         </div>*/
-/*     </section>*/
-/* */
-/*     <!-- Clients Aside -->*/
-/*     <aside class="clients">*/
-/*         <div class="container">*/
-/*             <div class="row">*/
-/*                */
-/* 			   <div class="col-md-3 col-sm-6">*/
-/*                     <a href="http://treck.com.ua/" target="_blank">*/
-/*                         <img src="http://mzvector.com.ua/storage/app/media/logo.png" class="img-responsive img-centered" alt="">*/
-/*                     </a>*/
-/*                 </div>*/
-/* 				<div class="col-md-3 col-sm-6">*/
-/*                     <a href="http://treck.com.ua/" target="_blank">*/
-/*                         <img src="http://mzvector.com.ua/storage/app/media/logo.png" class="img-responsive img-centered" alt="">*/
-/*                     </a>*/
-/*                 </div>*/
-/* 				<div class="col-md-3 col-sm-6">*/
-/*                     <a href="http://treck.com.ua/" target="_blank">*/
-/*                         <img src="http://mzvector.com.ua/storage/app/media/logo.png" class="img-responsive img-centered" alt="">*/
-/*                     </a>*/
-/*                 </div>*/
-/* 				<div class="col-md-3 col-sm-6">*/
-/*                     <a href="http://treck.com.ua/" target="_blank">*/
-/*                         <img src="http://mzvector.com.ua/storage/app/media/logo.png" class="img-responsive img-centered" alt="">*/
-/*                     </a>*/
-/*                 </div>*/
-/* 				*/
-/*                */
-/*             </div>*/
-/*         </div>*/
-/*     </aside>*/
+/*     {% component 'myExpert' %}*/
 /*     */
+/*     <!-- Clients Aside -->*/
+/*     {% component 'myClient' %}*/
+/* */
+/* */
 /*     <!-- Contact Section -->*/
 /*     <section id="contact">*/
 /*         <div class="container">*/
 /*             <div class="row">*/
 /*                 <div class="col-lg-12 text-center">*/
 /*                     <h2 class="section-heading">Контакты</h2>*/
-/*                     <h3 class="section-subheading text-muted">Оценке качества восприятия макета не имеет никакого отношения.</h3>*/
+/*                     <h3 class="section-subheading text-muted">Для связи с нами используйте форму ниже либо указанную контактную информацию.</h3>*/
 /*                 </div>*/
 /*             </div>*/
 /*             <div class="row">*/
 /*                 <div class="col-lg-12">*/
-/* 				*/
-/* 						<div style="height: 400px;"></div>*/
-/* 						*/
+/*                     <form name="sentMessage" id="contactForm" novalidate>*/
+/*                         <div class="row">*/
+/*                             <div class="col-md-6">*/
+/* */
+/* */
+/*                                 {% for contact in myContact.getContact %}*/
+/* */
+/*                                 <div class="cont-list"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;&nbsp;{{ contact.address }}</div>*/
+/*                                 <div class="cont-list"><i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;{{ contact.phone }}</div>*/
+/*                                 <div class="cont-list"><i class="fa fa-envelope"></i>&nbsp;&nbsp;&nbsp;{{ contact.email }}</div>*/
+/* */
+/*                                 {% endfor %}*/
+/* */
+/* */
+/*                                 <div class="map_site">{% component 'googleMap' %}</div>*/
+/* */
+/*                             </div>*/
+/*                             <div class="col-md-6">*/
+/*                                 <div class="form-group">*/
+/*                                     <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">*/
+/*                                     <p class="help-block text-danger"></p>*/
+/*                                 </div>*/
+/*                                 <div class="form-group">*/
+/*                                     <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">*/
+/*                                     <p class="help-block text-danger"></p>*/
+/*                                 </div>*/
+/*                                 <div class="form-group">*/
+/*                                     <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required data-validation-required-message="Please enter your phone number.">*/
+/*                                     <p class="help-block text-danger"></p>*/
+/*                                 </div>*/
+/*                                 <div class="form-group">*/
+/*                                     <textarea class="form-control" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>*/
+/*                                     <p class="help-block text-danger"></p>*/
+/*                                 </div>*/
+/*                             </div>*/
+/*                             <div class="clearfix"></div>*/
+/*                             <div class="col-lg-12 text-right">*/
+/*                                 <div id="success"></div>*/
+/*                                 <button type="submit" class="btn btn-xl">Надіслати повідомлення</button>*/
+/*                             </div>*/
+/*                         </div>*/
+/*                     </form>*/
 /*                 </div>*/
 /*             </div>*/
 /*         </div>*/

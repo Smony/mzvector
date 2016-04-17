@@ -1,0 +1,12 @@
+# ===================================
+#  List Column Definitions
+# ===================================
+
+columns:
+    id:
+        label: ID
+        searchable: true
+    full_name:
+        label: NAME and SURNAME
+    position:
+        label: POSITION

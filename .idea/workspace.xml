@@ -1,7 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad7dd9af-e1a5-419a-92df-7920d519279f" name="Default" comment="" />
+    <list default="true" id="ad7dd9af-e1a5-419a-92df-7920d519279f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/2feaaf495fded5279c2aff9044155d12" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/02beb55e8ee7dde98b454e8121aabd5ac5a2e0cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/250a572aaedc3b8531bc7a31b313c68730ea8d2d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/5f9d8da9d765b038adf3c9a7d61008091e71d0cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/bace595b6e7751b1e4a61bf019896e02f499ffdd" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/4f/34/4f342a5bb59a8fb481469963c2025b10" afterPath="$PROJECT_DIR$/storage/framework/cache/4f/34/4f342a5bb59a8fb481469963c2025b10" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/e0/83/e08319ec92d7fca89e8b9c59b225e378" afterPath="$PROJECT_DIR$/storage/framework/cache/e0/83/e08319ec92d7fca89e8b9c59b225e378" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy" afterPath="$PROJECT_DIR$/themes/copy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme" afterPath="$PROJECT_DIR$/themes/vsTheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/17/23/home.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/17/23/home.htm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/72/44/footer.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/72/44/footer.htm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/82/39/default.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/82/39/default.htm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/twig/04/048fb86889bb9c41a758f9704925c46cd82873913151980580aa281dab87cfd7.php" afterPath="$PROJECT_DIR$/storage/cms/twig/04/048fb86889bb9c41a758f9704925c46cd82873913151980580aa281dab87cfd7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/twig/46/46a2382c5ce0fb706b8b553d1d75a8bd6657adff05f31715ace85eed6dbb14b3.php" afterPath="$PROJECT_DIR$/storage/cms/twig/46/46a2382c5ce0fb706b8b553d1d75a8bd6657adff05f31715ace85eed6dbb14b3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/twig/e3/e391c6a394524d5e31bc0a9484d5d833c79bd5389511b87198afae5bcd80e84b.php" afterPath="$PROJECT_DIR$/storage/cms/twig/e3/e391c6a394524d5e31bc0a9484d5d833c79bd5389511b87198afae5bcd80e84b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/08/c8/08c870bd57d0ba80a2d40cce8f7e6e0b" afterPath="$PROJECT_DIR$/storage/framework/cache/08/c8/08c870bd57d0ba80a2d40cce8f7e6e0b" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/1a/35/1a3565c4ad91f449b79a29ea5b60a58b" afterPath="$PROJECT_DIR$/storage/framework/cache/1a/35/1a3565c4ad91f449b79a29ea5b60a58b" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/36/0f/360f2fbc479f3104b6f9fd501f668fff" afterPath="$PROJECT_DIR$/storage/framework/cache/36/0f/360f2fbc479f3104b6f9fd501f668fff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/3e/8b/3e8b4db7ec2af980478a3865b229fa1b" afterPath="$PROJECT_DIR$/storage/framework/cache/3e/8b/3e8b4db7ec2af980478a3865b229fa1b" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/46/99/469956c447249126746804c4f3c4ff08" afterPath="$PROJECT_DIR$/storage/framework/cache/46/99/469956c447249126746804c4f3c4ff08" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/47/03/470330a89a0b480aca1ece1e4539f1ad" afterPath="$PROJECT_DIR$/storage/framework/cache/47/03/470330a89a0b480aca1ece1e4539f1ad" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/50/35/5035b0c1e1f82379067d38f8383c7b5d" afterPath="$PROJECT_DIR$/storage/framework/cache/50/35/5035b0c1e1f82379067d38f8383c7b5d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/5c/71/5c7172a25eac0e671fdf44d769b25a78" afterPath="$PROJECT_DIR$/storage/framework/cache/5c/71/5c7172a25eac0e671fdf44d769b25a78" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/5e/5e/5e5ec738a988de4a91aec04f81fd8768" afterPath="$PROJECT_DIR$/storage/framework/cache/5e/5e/5e5ec738a988de4a91aec04f81fd8768" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/60/92/6092f12922a2e92b9326eda3034141f9" afterPath="$PROJECT_DIR$/storage/framework/cache/60/92/6092f12922a2e92b9326eda3034141f9" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/60/c9/60c9652d54898a9ab268a22a645c5202" afterPath="$PROJECT_DIR$/storage/framework/cache/60/c9/60c9652d54898a9ab268a22a645c5202" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/a1/f7/a1f74de7779d5838a058998a9dfe30db" afterPath="$PROJECT_DIR$/storage/framework/cache/a1/f7/a1f74de7779d5838a058998a9dfe30db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/a4/60/a4609e190c597f3c0d89995b0157d816" afterPath="$PROJECT_DIR$/storage/framework/cache/a4/60/a4609e190c597f3c0d89995b0157d816" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/b3/40/b3400be9590a4786d79a0a75a1cee05c" afterPath="$PROJECT_DIR$/storage/framework/cache/b3/40/b3400be9590a4786d79a0a75a1cee05c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/ba/be/babe3a26773716acfe84d5126c37e8c2" afterPath="$PROJECT_DIR$/storage/framework/cache/ba/be/babe3a26773716acfe84d5126c37e8c2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/da/5c/da5c2d2005f1bd56f86df384ab2d9af1" afterPath="$PROJECT_DIR$/storage/framework/cache/da/5c/da5c2d2005f1bd56f86df384ab2d9af1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/dc/ee/dcee0196babfbc3f4d9cf7f570d5d82a" afterPath="$PROJECT_DIR$/storage/framework/cache/dc/ee/dcee0196babfbc3f4d9cf7f570d5d82a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/df/b8/dfb807202eb68a6034f853f758c95ef2" afterPath="$PROJECT_DIR$/storage/framework/cache/df/b8/dfb807202eb68a6034f853f758c95ef2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/sessions/019c873ff3ae34cba493c568d8fc9b270494926d" afterPath="$PROJECT_DIR$/storage/framework/sessions/019c873ff3ae34cba493c568d8fc9b270494926d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/css/theme.css" afterPath="$PROJECT_DIR$/themes/copy/assets/css/theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/fonts/lato-black-webfont.svg" afterPath="$PROJECT_DIR$/themes/copy/assets/fonts/lato-black-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/fonts/lato-italic-webfont.svg" afterPath="$PROJECT_DIR$/themes/copy/assets/fonts/lato-italic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/fonts/lato-light-webfont.svg" afterPath="$PROJECT_DIR$/themes/copy/assets/fonts/lato-light-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/fonts/lato-regular-webfont.svg" afterPath="$PROJECT_DIR$/themes/copy/assets/fonts/lato-regular-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/javascript/app.js" afterPath="$PROJECT_DIR$/themes/copy/assets/javascript/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/javascript/jquery.js" afterPath="$PROJECT_DIR$/themes/copy/assets/javascript/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/affix.js" afterPath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/affix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/alert.js" afterPath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/alert.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/button.js" afterPath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/button.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/carousel.js" afterPath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/collapse.js" afterPath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/collapse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/dropdown.js" afterPath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/dropdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/modal.js" afterPath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/modal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/popover.js" afterPath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/popover.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/scrollspy.js" afterPath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/scrollspy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/tab.js" afterPath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/tab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/tooltip.js" afterPath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/tooltip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/transition.js" afterPath="$PROJECT_DIR$/themes/copy/assets/vendor/bootstrap/js/transition.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/vendor/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/themes/copy/assets/vendor/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/vendor/font-awesome/font/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/themes/copy/assets/vendor/font-awesome/font/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/content/welcome.htm" afterPath="$PROJECT_DIR$/themes/copy/content/welcome.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/layouts/default.htm" afterPath="$PROJECT_DIR$/themes/copy/layouts/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/pages/404.htm" afterPath="$PROJECT_DIR$/themes/copy/pages/404.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/pages/ajax.htm" afterPath="$PROJECT_DIR$/themes/copy/pages/ajax.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/pages/error.htm" afterPath="$PROJECT_DIR$/themes/copy/pages/error.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/pages/home.htm" afterPath="$PROJECT_DIR$/themes/copy/pages/home.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/pages/plugins.htm" afterPath="$PROJECT_DIR$/themes/copy/pages/plugins.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/partials/calcresult.htm" afterPath="$PROJECT_DIR$/themes/copy/partials/calcresult.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/theme.yaml" afterPath="$PROJECT_DIR$/themes/copy/theme.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/css/main.css" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/css/theme.css" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/css/theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/fonts/lato-black-webfont.svg" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/fonts/lato-black-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/fonts/lato-italic-webfont.svg" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/fonts/lato-italic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/fonts/lato-light-webfont.svg" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/fonts/lato-light-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/fonts/lato-regular-webfont.svg" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/fonts/lato-regular-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/javascript/app.js" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/javascript/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/javascript/jquery.js" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/javascript/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/affix.js" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/affix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/alert.js" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/alert.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/button.js" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/button.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/carousel.js" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/collapse.js" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/collapse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/dropdown.js" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/dropdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/modal.js" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/modal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/popover.js" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/popover.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/scrollspy.js" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/scrollspy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/tab.js" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/tab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/tooltip.js" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/tooltip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/transition.js" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/bootstrap/js/transition.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/font-awesome/font/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/themes/vsTheme/assets/vendor/font-awesome/font/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/content/welcome.htm" afterPath="$PROJECT_DIR$/themes/vsTheme/content/welcome.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/layouts/default.htm" afterPath="$PROJECT_DIR$/themes/vsTheme/layouts/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/pages/404.htm" afterPath="$PROJECT_DIR$/themes/vsTheme/pages/404.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/pages/ajax.htm" afterPath="$PROJECT_DIR$/themes/vsTheme/pages/ajax.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/pages/error.htm" afterPath="$PROJECT_DIR$/themes/vsTheme/pages/error.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/pages/home.htm" afterPath="$PROJECT_DIR$/themes/vsTheme/pages/home.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/pages/plugins.htm" afterPath="$PROJECT_DIR$/themes/vsTheme/pages/plugins.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/partials/calcresult.htm" afterPath="$PROJECT_DIR$/themes/vsTheme/partials/calcresult.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme/theme.yaml" afterPath="$PROJECT_DIR$/themes/vsTheme/theme.yaml" />
+    </list>
     <ignored path="mzvector.local.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -26,35 +125,57 @@
     <favorites_list name="mzvector.local" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/vsTheme/layouts/default.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.htm" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/vsTheme/pages/home.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1632">
-              <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/vsTheme" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/vsTheme/assets/css/main.css" />
         <option value="$PROJECT_DIR$/themes/vsTheme/partials/footer.htm" />
         <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/../../modules/php/PHP-5.6/php.ini" />
+        <option value="$PROJECT_DIR$/plugins/smony/about/updates/version.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/about/updates/create_abouts_table.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/about/models/about/fields.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/about/models/about/columns.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/about/controllers/about/_list_toolbar.htm" />
+        <option value="$PROJECT_DIR$/plugins/smony/about/Plugin.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/updates/version.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/models/client/fields.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/updates/create_clients_table.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/models/Client.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/models/client/columns.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/components/Client.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/components/client/default.htm" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/Plugin.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/models/Expert.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/models/expert/fields.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/models/expert/columns.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/components/Expert.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/components/expert/default.htm" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/updates/create_experts_table.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/contact/updates/version.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/contact/updates/create_contacts_table.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/contact/models/contact/fields.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/contact/Plugin.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/contact/models/contact/columns.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/contact/components/contact/default.htm" />
+        <option value="$PROJECT_DIR$/themes/vsTheme/pages/home.htm" />
+        <option value="$PROJECT_DIR$/plugins/smony/map/Plugin.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/map/components/map/default.htm" />
+        <option value="$PROJECT_DIR$/plugins/smony/map/components/Map.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/head/updates/create_heads_table.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/head/updates/version.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/head/models/Head.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/head/Plugin.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/head/models/head/columns.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/contact/components/Contact.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/head/components/Head.php" />
+        <option value="$PROJECT_DIR$/themes/vsTheme/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/themes/vsTheme/layouts/default.htm" />
+        <option value="$PROJECT_DIR$/plugins/smony/head/models/head/fields.yaml" />
       </list>
     </option>
   </component>
@@ -63,7 +184,10 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/psr/log" />
@@ -123,7 +247,7 @@
     <option name="width" value="1696" />
     <option name="height" value="1036" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -148,7 +272,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -264,6 +387,72 @@
               <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vsTheme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mzvector.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mzvector.local" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vsTheme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mzvector.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mzvector.local" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mzvector.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mzvector.local" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -282,10 +471,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -306,6 +496,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -330,26 +526,39 @@
       <option name="presentableId" value="Default" />
       <updated>1460467769920</updated>
       <workItem from="1460467772508" duration="1898000" />
-      <workItem from="1460737295920" duration="3143000" />
+      <workItem from="1460737295920" duration="3580000" />
+      <workItem from="1460819346903" duration="428000" />
+      <workItem from="1460819919599" duration="239000" />
+      <workItem from="1460820191440" duration="25902000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5041000" />
+    <option name="totallyTimeSpent" value="32047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23899755" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24816626" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26135105" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -359,10 +568,39 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/vsTheme/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/themes/vsTheme/layouts/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="740" column="21" selection-start-line="740" selection-start-column="21" selection-end-line="740" selection-end-column="21" />
+        <state relative-caret-position="1360">
+          <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/vsTheme/pages/home.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/vsTheme/layouts/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/vsTheme/pages/home.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2924">
+          <caret line="172" column="18" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -370,7 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-457">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -378,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -386,15 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/vsTheme/layouts/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -402,17 +629,371 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="22" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../modules/php/PHP-5.6/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/about/controllers/about/update.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/about/controllers/about/preview.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/about/controllers/about/_list_toolbar.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/about/models/about/columns.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/about/updates/version.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/about/models/about/fields.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/updates/version.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/about/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="70" column="34" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/about/updates/create_abouts_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/models/client/columns.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/models/client/fields.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/models/expert/columns.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/models/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="64" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/components/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/updates/create_clients_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/updates/create_experts_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/components/Expert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="71" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/contact/updates/version.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/contact/models/contact/fields.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/contact/models/contact/columns.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/components/client/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/contact/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="36" column="60" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/contact/updates/create_contacts_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/contact/components/contact/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/map/components/Map.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/map/components/map/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/map/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="36" column="52" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/head/updates/version.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/models/expert/fields.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/models/Expert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="64" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/head/models/Head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/contact/components/Contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/head/updates/create_heads_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/head/models/head/columns.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/components/expert/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="134" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="134" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/head/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="36" column="51" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/head/components/Head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/vsTheme/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="233" column="26" selection-start-line="233" selection-start-column="26" selection-end-line="233" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/vsTheme/pages/home.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1632">
-          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        <state relative-caret-position="172">
+          <caret line="194" column="26" selection-start-line="194" selection-start-column="26" selection-end-line="194" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/head/models/head/fields.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/vsTheme/layouts/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

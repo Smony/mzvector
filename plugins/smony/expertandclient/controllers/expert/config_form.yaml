@@ -1,0 +1,31 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: Expert
+
+# Model Form Field configuration
+form: $/smony/expertandclient/models/expert/fields.yaml
+
+# Model Class name
+modelClass: Smony\Expertandclient\Models\Expert
+
+# Default redirect location
+defaultRedirect: smony/expertandclient/expert
+
+# Create page
+create:
+    title: Create Expert
+    redirect: smony/expertandclient/expert/update/:id
+    redirectClose: smony/expertandclient/expert
+
+# Update page
+update:
+    title: Edit Expert
+    redirect: smony/expertandclient/expert
+    redirectClose: smony/expertandclient/expert
+
+# Preview page
+preview:
+    title: Preview Expert
