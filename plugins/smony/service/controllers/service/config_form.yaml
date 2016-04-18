@@ -1,0 +1,31 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: Service
+
+# Model Form Field configuration
+form: $/smony/service/models/service/fields.yaml
+
+# Model Class name
+modelClass: Smony\Service\Models\Service
+
+# Default redirect location
+defaultRedirect: smony/service/service
+
+# Create page
+create:
+    title: Create Service
+    redirect: smony/service/service/update/:id
+    redirectClose: smony/service/service
+
+# Update page
+update:
+    title: Edit Service
+    redirect: smony/service/service
+    redirectClose: smony/service/service
+
+# Preview page
+preview:
+    title: Preview Service

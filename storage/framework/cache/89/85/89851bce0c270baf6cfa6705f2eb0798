@@ -1,0 +1,39 @@
+1460988142s:1677:"a:2:{s:5:"mtime";i:1460987539;s:7:"content";s:1622:"{% for service in myService.getServices %}
+<div class="col-md-4 col-sm-6 portfolio-item">
+    <a href="#portfolioModal{{ service.id }}" class="portfolio-link" data-toggle="modal">
+        <img src="{{ service.attachments.path }}" class="img-responsive" alt="{{ service.attachments.title }}">
+    </a>
+    <div class="portfolio-caption">
+        <h4>{{ service.title }}</h4>
+
+        <p class="text-muted">{{ service.min_text }}</p>
+
+    </div>
+</div>
+<!-- Portfolio Modal 1 -->
+<div class="portfolio-modal modal fade" id="portfolioModal{{ service.id }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>{{ service.title }}</h2>
+                        <p class="item-intro text-muted">{{ service.min_text }}</p>
+                        <img class="img-responsive img-centered" src="{{ service.attachments.path }}" alt="{{ service.attachments.title }}">
+                        <p>{{ service.text|striptags }}<p>
+
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Закрыть</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}";}";

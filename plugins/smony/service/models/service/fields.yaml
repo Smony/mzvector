@@ -1,0 +1,21 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    id:
+        label: ID
+        disabled: true
+    title:
+        label: TITLE
+        span: left
+    min_text:
+        label: MINI TEXT
+        span: right
+    attachments:
+        label: IMAGE
+        type: fileupload
+    text:
+        label: TEXT
+        type: richeditor
+        span: full

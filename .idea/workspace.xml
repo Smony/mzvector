@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad7dd9af-e1a5-419a-92df-7920d519279f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/64/72/404.htm.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/2e1a6f9a199aea30c34d8436040ef0a7" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/2feaaf495fded5279c2aff9044155d12" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/397db210c8edf0d6d4716b4b63a91f73" afterPath="" />
@@ -19,9 +18,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/e8e618e7d192715749d11bb665f77e5b" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/f062cf7da7efd4eaac19fba97d0c1f85" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/f847a1614d0cb220de8c7baade937c8a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/33/339e290bc9effd0bb76d6ca172f5014cea4516d00d8845ed3c027bd836f36372.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/5c/5ca78381e71eed068cf8e0323192b058536241ce624ca51968911e2dfe76d98e.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/71/71a15f9dbff8e023866b44ad87431bf06212ba9774d3e3a6eac64f2778e896b1.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/019c873ff3ae34cba493c568d8fc9b270494926d" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/02beb55e8ee7dde98b454e8121aabd5ac5a2e0cc" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/250a572aaedc3b8531bc7a31b313c68730ea8d2d" afterPath="" />
@@ -33,31 +30,23 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy" afterPath="$PROJECT_DIR$/themes/copy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/vsTheme" afterPath="$PROJECT_DIR$/themes/vsTheme" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/smony/about/Plugin.php" afterPath="$PROJECT_DIR$/plugins/smony/about/Plugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/smony/about/models/about/fields.yaml" afterPath="$PROJECT_DIR$/plugins/smony/about/models/about/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/smony/about/updates/create_abouts_table.php" afterPath="$PROJECT_DIR$/plugins/smony/about/updates/create_abouts_table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/smony/expertandclient/models/expert/fields.yaml" afterPath="$PROJECT_DIR$/plugins/smony/expertandclient/models/expert/fields.yaml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/17/23/home.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/17/23/home.htm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/72/44/footer.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/72/44/footer.htm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/82/39/default.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/82/39/default.htm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/twig/46/46a2382c5ce0fb706b8b553d1d75a8bd6657adff05f31715ace85eed6dbb14b3.php" afterPath="$PROJECT_DIR$/storage/cms/twig/46/46a2382c5ce0fb706b8b553d1d75a8bd6657adff05f31715ace85eed6dbb14b3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/64/72/404.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/64/72/404.htm.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/twig/e3/e391c6a394524d5e31bc0a9484d5d833c79bd5389511b87198afae5bcd80e84b.php" afterPath="$PROJECT_DIR$/storage/cms/twig/e3/e391c6a394524d5e31bc0a9484d5d833c79bd5389511b87198afae5bcd80e84b.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/08/c8/08c870bd57d0ba80a2d40cce8f7e6e0b" afterPath="$PROJECT_DIR$/storage/framework/cache/08/c8/08c870bd57d0ba80a2d40cce8f7e6e0b" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/15/77/157704c74be07fc1f5e434a33be408a6" afterPath="$PROJECT_DIR$/storage/framework/cache/15/77/157704c74be07fc1f5e434a33be408a6" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/1a/35/1a3565c4ad91f449b79a29ea5b60a58b" afterPath="$PROJECT_DIR$/storage/framework/cache/1a/35/1a3565c4ad91f449b79a29ea5b60a58b" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/3e/8b/3e8b4db7ec2af980478a3865b229fa1b" afterPath="$PROJECT_DIR$/storage/framework/cache/3e/8b/3e8b4db7ec2af980478a3865b229fa1b" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/46/99/469956c447249126746804c4f3c4ff08" afterPath="$PROJECT_DIR$/storage/framework/cache/46/99/469956c447249126746804c4f3c4ff08" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/47/03/470330a89a0b480aca1ece1e4539f1ad" afterPath="$PROJECT_DIR$/storage/framework/cache/47/03/470330a89a0b480aca1ece1e4539f1ad" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/50/35/5035b0c1e1f82379067d38f8383c7b5d" afterPath="$PROJECT_DIR$/storage/framework/cache/50/35/5035b0c1e1f82379067d38f8383c7b5d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/56/ab/56aba283b5e376ed42176d5f6adcd475" afterPath="$PROJECT_DIR$/storage/framework/cache/56/ab/56aba283b5e376ed42176d5f6adcd475" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/5e/5e/5e5ec738a988de4a91aec04f81fd8768" afterPath="$PROJECT_DIR$/storage/framework/cache/5e/5e/5e5ec738a988de4a91aec04f81fd8768" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/60/92/6092f12922a2e92b9326eda3034141f9" afterPath="$PROJECT_DIR$/storage/framework/cache/60/92/6092f12922a2e92b9326eda3034141f9" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/92/13/92134267e3363691e64a31a169d38f4e" afterPath="$PROJECT_DIR$/storage/framework/cache/92/13/92134267e3363691e64a31a169d38f4e" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/a1/f7/a1f74de7779d5838a058998a9dfe30db" afterPath="$PROJECT_DIR$/storage/framework/cache/a1/f7/a1f74de7779d5838a058998a9dfe30db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/a4/60/a4609e190c597f3c0d89995b0157d816" afterPath="$PROJECT_DIR$/storage/framework/cache/a4/60/a4609e190c597f3c0d89995b0157d816" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/ba/be/babe3a26773716acfe84d5126c37e8c2" afterPath="$PROJECT_DIR$/storage/framework/cache/ba/be/babe3a26773716acfe84d5126c37e8c2" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/cc/d6/ccd65aa0111aee80de921b733d8c304a" afterPath="$PROJECT_DIR$/storage/framework/cache/cc/d6/ccd65aa0111aee80de921b733d8c304a" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/da/89/da899461e0647ddc0c2d5037d9769983" afterPath="$PROJECT_DIR$/storage/framework/cache/da/89/da899461e0647ddc0c2d5037d9769983" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/dc/ee/dcee0196babfbc3f4d9cf7f570d5d82a" afterPath="$PROJECT_DIR$/storage/framework/cache/dc/ee/dcee0196babfbc3f4d9cf7f570d5d82a" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/df/b8/dfb807202eb68a6034f853f758c95ef2" afterPath="$PROJECT_DIR$/storage/framework/cache/df/b8/dfb807202eb68a6034f853f758c95ef2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/sessions/f5360b069d97c613ee4fe3f92011dda56f4a409c" afterPath="$PROJECT_DIR$/storage/framework/sessions/f5360b069d97c613ee4fe3f92011dda56f4a409c" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/css/theme.css" afterPath="$PROJECT_DIR$/themes/copy/assets/css/theme.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/fonts/lato-black-webfont.svg" afterPath="$PROJECT_DIR$/themes/copy/assets/fonts/lato-black-webfont.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/copy/assets/fonts/lato-italic-webfont.svg" afterPath="$PROJECT_DIR$/themes/copy/assets/fonts/lato-italic-webfont.svg" />
@@ -148,7 +137,7 @@
       <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/vsTheme/layouts/default.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
+            <state relative-caret-position="646">
               <caret line="108" column="29" selection-start-line="108" selection-start-column="29" selection-end-line="108" selection-end-column="29" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -160,28 +149,8 @@
       <file leaf-file-name="home.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/vsTheme/pages/home.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2431">
-              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.htm" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/plugins/smony/about/components/about/default.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create_abouts_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/smony/about/updates/create_abouts_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            <state relative-caret-position="544">
+              <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -190,18 +159,38 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/vsTheme/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="793" column="20" selection-start-line="793" selection-start-column="20" selection-end-line="793" selection-end-column="20" />
+            <state relative-caret-position="519">
+              <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="About.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/smony/about/components/About.php">
+      <file leaf-file-name="Plugin.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugins/smony/service/Plugin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="646">
+              <caret line="81" column="53" selection-start-line="81" selection-start-column="53" selection-end-line="81" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/smony/service/components/service/default.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/components/expert/default.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -215,10 +204,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/vsTheme/partials/footer.htm" />
-        <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/../../modules/php/PHP-5.6/php.ini" />
-        <option value="$PROJECT_DIR$/plugins/smony/about/updates/version.yaml" />
         <option value="$PROJECT_DIR$/plugins/smony/about/models/about/columns.yaml" />
         <option value="$PROJECT_DIR$/plugins/smony/about/controllers/about/_list_toolbar.htm" />
         <option value="$PROJECT_DIR$/plugins/smony/expertandclient/updates/version.yaml" />
@@ -228,7 +213,6 @@
         <option value="$PROJECT_DIR$/plugins/smony/expertandclient/models/client/columns.yaml" />
         <option value="$PROJECT_DIR$/plugins/smony/expertandclient/components/Client.php" />
         <option value="$PROJECT_DIR$/plugins/smony/expertandclient/components/client/default.htm" />
-        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/Plugin.php" />
         <option value="$PROJECT_DIR$/plugins/smony/expertandclient/models/Expert.php" />
         <option value="$PROJECT_DIR$/plugins/smony/expertandclient/models/expert/fields.yaml" />
         <option value="$PROJECT_DIR$/plugins/smony/expertandclient/models/expert/columns.yaml" />
@@ -256,10 +240,21 @@
         <option value="$PROJECT_DIR$/plugins/smony/about/models/about/fields.yaml" />
         <option value="$PROJECT_DIR$/plugins/smony/about/components/About.php" />
         <option value="$PROJECT_DIR$/plugins/smony/about/Plugin.php" />
-        <option value="$PROJECT_DIR$/themes/vsTheme/pages/home.htm" />
         <option value="$PROJECT_DIR$/plugins/smony/about/updates/create_abouts_table.php" />
-        <option value="$PROJECT_DIR$/themes/vsTheme/assets/css/main.css" />
         <option value="$PROJECT_DIR$/plugins/smony/about/components/about/default.htm" />
+        <option value="$PROJECT_DIR$/plugins/smony/services/updates/version.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/services/Plugin.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/service/updates/version.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/service/updates/create_services_table.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/service/models/Service.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/service/models/service/fields.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/service/models/service/columns.yaml" />
+        <option value="$PROJECT_DIR$/plugins/smony/service/components/Service.php" />
+        <option value="$PROJECT_DIR$/themes/vsTheme/pages/home.htm" />
+        <option value="$PROJECT_DIR$/plugins/smony/service/components/service/default.htm" />
+        <option value="$PROJECT_DIR$/themes/vsTheme/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/plugins/smony/expertandclient/Plugin.php" />
+        <option value="$PROJECT_DIR$/plugins/smony/service/Plugin.php" />
       </list>
     </option>
   </component>
@@ -537,26 +532,8 @@
               <option name="myItemId" value="smony" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mzvector.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mzvector.local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smony" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contact" />
+              <option name="myItemId" value="service" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -578,29 +555,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mzvector.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mzvector.local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smony" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
+              <option name="myItemId" value="service" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -626,33 +581,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mzvector.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mzvector.local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smony" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
+              <option name="myItemId" value="service" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -677,16 +606,26 @@
               <option name="myItemId" value="smony" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
+              <option name="myItemId" value="mzvector.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mzvector.local" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
+              <option name="myItemId" value="plugins" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
+              <option name="myItemId" value="smony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expertandclient" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -767,12 +706,12 @@
       <workItem from="1460819919599" duration="239000" />
       <workItem from="1460820191440" duration="25902000" />
       <workItem from="1460866982885" duration="3002000" />
-      <workItem from="1460974855349" duration="5969000" />
+      <workItem from="1460974855349" duration="10864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41018000" />
+    <option name="totallyTimeSpent" value="45913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
@@ -806,108 +745,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/vsTheme/layouts/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/vsTheme/pages/home.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2924">
-          <caret line="172" column="18" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Work/BackApps/developerscompany.com/02.03.2016/package_1456920779/developerscompany.com/www/resources/views/admin/admin.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-457">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/vsTheme/pages/tmp.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/vsTheme/partials/footer.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../modules/php/PHP-5.6/php.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/smony/about/controllers/about/update.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/smony/about/controllers/about/preview.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/smony/about/controllers/about/_list_toolbar.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/smony/about/models/about/columns.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/smony/about/updates/version.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/updates/version.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/models/client/columns.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/models/client/fields.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -978,13 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/Plugin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/smony/contact/Plugin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="492">
@@ -1034,20 +864,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/models/expert/fields.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/models/Expert.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="64" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/smony/head/models/Head.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -1066,13 +882,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/components/expert/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="134" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="134" />
         </state>
       </provider>
     </entry>
@@ -1097,16 +906,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/vsTheme/layouts/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="108" column="29" selection-start-line="108" selection-start-column="29" selection-end-line="108" selection-end-column="29" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/smony/contact/components/Contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1123,22 +922,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/vsTheme/pages/home.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2431">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/smony/about/models/about/fields.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/smony/about/Plugin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1147,10 +930,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/smony/about/components/About.php">
+    <entry file="file://$PROJECT_DIR$/themes/vsTheme/layouts/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="646">
+          <caret line="108" column="29" selection-start-line="108" selection-start-column="29" selection-end-line="108" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/vsTheme/pages/tmp.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="43" column="10" selection-start-line="12" selection-start-column="4" selection-end-line="43" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -1163,18 +956,178 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/vsTheme/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/plugins/smony/about/components/About.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="793" column="20" selection-start-line="793" selection-start-column="20" selection-end-line="793" selection-end-column="20" />
+        <state relative-caret-position="289">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/services/updates/create_serveces_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/services/updates/create_services_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/services/updates/version.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/services/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="71" column="55" selection-start-line="71" selection-start-column="55" selection-end-line="71" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/service/updates/version.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/models/expert/fields.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/models/Expert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="64" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/service/models/Service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/about/models/about/fields.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/service/models/service/columns.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/service/models/service/fields.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="220" column="19" selection-start-line="220" selection-start-column="19" selection-end-line="220" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/service/components/Service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/plugins/smony/about/components/about/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state relative-caret-position="204">
+          <caret line="12" column="70" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/vsTheme/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/vsTheme/pages/home.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/service/updates/create_services_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/components/expert/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/service/components/service/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/expertandclient/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="86" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/smony/service/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="81" column="53" selection-start-line="81" selection-start-column="53" selection-end-line="81" selection-end-column="53" />
           <folding />
         </state>
       </provider>

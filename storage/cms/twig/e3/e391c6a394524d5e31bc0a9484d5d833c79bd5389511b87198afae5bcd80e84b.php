@@ -64,133 +64,41 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
                     <h3 class=\"section-subheading text-muted\">Украина всегда стремится оказывать наиболее широкий спектр юридических услуг.</h3>
                 </div>
             </div>
-            <div class=\"row\">
-\t\t\t
-                <div class=\"col-md-4 col-sm-6 portfolio-item\">
-                    <a href=\"#portfolioModal1\" class=\"portfolio-link\" data-toggle=\"modal\">
-                        <div class=\"portfolio-hover\">
-                            <div class=\"portfolio-hover-content\">
-                                <i class=\"fa fa-plus fa-3x\"></i>
-                            </div>
-                        </div>
-                        <img src=\"http://mzvector.com.ua/storage/app/media/1.jpg\" class=\"img-responsive\" alt=\"\">
-                    </a>
-                    <div class=\"portfolio-caption\">
-                        <h4>Недвижимость</h4>
-\t\t\t\t\t\t
-\t\t\t\t\t\t\t<p class=\"text-muted\">текст</p>
-\t\t\t\t\t\t
-                    </div>
-                </div>
-\t\t\t\t<div class=\"col-md-4 col-sm-6 portfolio-item\">
-                    <a href=\"#portfolioModal2\" class=\"portfolio-link\" data-toggle=\"modal\">
-                        <div class=\"portfolio-hover\">
-                            <div class=\"portfolio-hover-content\">
-                                <i class=\"fa fa-plus fa-3x\"></i>
-                            </div>
-                        </div>
-                        <img src=\"http://mzvector.com.ua/storage/app/media/1.jpg\" class=\"img-responsive\" alt=\"\">
-                    </a>
-                    <div class=\"portfolio-caption\">
-                        <h4>Недвижимость</h4>
-\t\t\t\t\t\t
-\t\t\t\t\t\t\t<p class=\"text-muted\">текст</p>
-\t\t\t\t\t\t
-                    </div>
-                </div>
-\t\t\t\t<div class=\"col-md-4 col-sm-6 portfolio-item\">
-                    <a href=\"#portfolioModal3\" class=\"portfolio-link\" data-toggle=\"modal\">
-                        <div class=\"portfolio-hover\">
-                            <div class=\"portfolio-hover-content\">
-                                <i class=\"fa fa-plus fa-3x\"></i>
-                            </div>
-                        </div>
-                        <img src=\"http://mzvector.com.ua/storage/app/media/1.jpg\" class=\"img-responsive\" alt=\"\">
-                    </a>
-                    <div class=\"portfolio-caption\">
-                        <h4>Недвижимость</h4>
-\t\t\t\t\t\t
-\t\t\t\t\t\t\t<p class=\"text-muted\">текст</p>
-\t\t\t\t\t\t
-                    </div>
-                </div>
-\t\t\t\t<div class=\"col-md-4 col-sm-6 portfolio-item\">
-                    <a href=\"#portfolioModal4\" class=\"portfolio-link\" data-toggle=\"modal\">
-                        <div class=\"portfolio-hover\">
-                            <div class=\"portfolio-hover-content\">
-                                <i class=\"fa fa-plus fa-3x\"></i>
-                            </div>
-                        </div>
-                        <img src=\"http://mzvector.com.ua/storage/app/media/1.jpg\" class=\"img-responsive\" alt=\"\">
-                    </a>
-                    <div class=\"portfolio-caption\">
-                        <h4>Недвижимость</h4>
-\t\t\t\t\t\t
-\t\t\t\t\t\t\t<p class=\"text-muted\">текст</p>
-\t\t\t\t\t\t
-                    </div>
-                </div>
-\t\t\t\t<div class=\"col-md-4 col-sm-6 portfolio-item\">
-                    <a href=\"#portfolioModal5\" class=\"portfolio-link\" data-toggle=\"modal\">
-                        <div class=\"portfolio-hover\">
-                            <div class=\"portfolio-hover-content\">
-                                <i class=\"fa fa-plus fa-3x\"></i>
-                            </div>
-                        </div>
-                        <img src=\"http://mzvector.com.ua/storage/app/media/1.jpg\" class=\"img-responsive\" alt=\"\">
-                    </a>
-                    <div class=\"portfolio-caption\">
-                        <h4>Недвижимость</h4>
-\t\t\t\t\t\t
-\t\t\t\t\t\t\t<p class=\"text-muted\">текст</p>
-\t\t\t\t\t\t
-                    </div>
-                </div>
-\t\t\t\t<div class=\"col-md-4 col-sm-6 portfolio-item\">
-                    <a href=\"#portfolioModal6\" class=\"portfolio-link\" data-toggle=\"modal\">
-                        <div class=\"portfolio-hover\">
-                            <div class=\"portfolio-hover-content\">
-                                <i class=\"fa fa-plus fa-3x\"></i>
-                            </div>
-                        </div>
-                        <img src=\"http://mzvector.com.ua/storage/app/media/1.jpg\" class=\"img-responsive\" alt=\"\">
-                    </a>
-                    <div class=\"portfolio-caption\">
-                        <h4>Недвижимость</h4>
-\t\t\t\t\t\t
-\t\t\t\t\t\t\t<p class=\"text-muted\">текст</p>
-\t\t\t\t\t\t
-                    </div>
-                </div>
 
-                \t\t\t\t
-            </div>
+            <div class=\"row\">
+                ";
+        // line 51
+        $context['__cms_component_params'] = [];
+        echo $this->env->getExtension('CMS')->componentFunction("myService"        , $context['__cms_component_params']        );
+        unset($context['__cms_component_params']);
+        // line 52
+        echo "            </div>
         </div>
     </section>
 
     <!-- About Section -->
     ";
-        // line 154
+        // line 57
         $context['__cms_component_params'] = [];
         echo $this->env->getExtension('CMS')->componentFunction("myAbout"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
-        // line 155
+        // line 58
         echo "
     <!-- Team Section -->
     ";
-        // line 157
+        // line 60
         $context['__cms_component_params'] = [];
         echo $this->env->getExtension('CMS')->componentFunction("myExpert"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
-        // line 158
+        // line 61
         echo "    
     <!-- Clients Aside -->
     ";
-        // line 160
+        // line 63
         $context['__cms_component_params'] = [];
         echo $this->env->getExtension('CMS')->componentFunction("myClient"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
-        // line 161
+        // line 64
         echo "
 
     <!-- Contact Section -->
@@ -210,22 +118,22 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
 
 
                                 ";
-        // line 179
+        // line 82
         $context['_parent'] = $context;
         $context['_seq'] = twig_ensure_traversable($this->getAttribute((isset($context["myContact"]) ? $context["myContact"] : null), "getContact", array()));
         foreach ($context['_seq'] as $context["_key"] => $context["contact"]) {
-            // line 180
+            // line 83
             echo "
                                 <div class=\"cont-list\"><i class=\"fa fa-map-marker\"></i>&nbsp;&nbsp;&nbsp;";
-            // line 181
+            // line 84
             echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "address", array()), "html", null, true);
             echo "</div>
                                 <div class=\"cont-list\"><i class=\"fa fa-phone\"></i>&nbsp;&nbsp;&nbsp;";
-            // line 182
+            // line 85
             echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "phone", array()), "html", null, true);
             echo "</div>
                                 <div class=\"cont-list\"><i class=\"fa fa-envelope\"></i>&nbsp;&nbsp;&nbsp;";
-            // line 183
+            // line 86
             echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "email", array()), "html", null, true);
             echo "</div>
 
@@ -234,11 +142,11 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
         $_parent = $context['_parent'];
         unset($context['_seq'], $context['_iterated'], $context['_key'], $context['contact'], $context['_parent'], $context['loop']);
         $context = array_intersect_key($context, $_parent) + $_parent;
-        // line 186
+        // line 89
         echo "
 
                                 <div class=\"map_site\">";
-        // line 188
+        // line 91
         $context['__cms_component_params'] = [];
         echo $this->env->getExtension('CMS')->componentFunction("googleMap"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
@@ -290,7 +198,7 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
 
     public function getDebugInfo()
     {
-        return array (  242 => 188,  238 => 186,  229 => 183,  225 => 182,  221 => 181,  218 => 180,  214 => 179,  194 => 161,  190 => 160,  186 => 158,  182 => 157,  178 => 155,  174 => 154,  19 => 1,);
+        return array (  150 => 91,  146 => 89,  137 => 86,  133 => 85,  129 => 84,  126 => 83,  122 => 82,  102 => 64,  98 => 63,  94 => 61,  90 => 60,  86 => 58,  82 => 57,  75 => 52,  71 => 51,  19 => 1,);
     }
 }
 /* <!-- Services Section -->*/
@@ -341,106 +249,9 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
 /*                     <h3 class="section-subheading text-muted">Украина всегда стремится оказывать наиболее широкий спектр юридических услуг.</h3>*/
 /*                 </div>*/
 /*             </div>*/
-/*             <div class="row">*/
-/* 			*/
-/*                 <div class="col-md-4 col-sm-6 portfolio-item">*/
-/*                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">*/
-/*                         <div class="portfolio-hover">*/
-/*                             <div class="portfolio-hover-content">*/
-/*                                 <i class="fa fa-plus fa-3x"></i>*/
-/*                             </div>*/
-/*                         </div>*/
-/*                         <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">*/
-/*                     </a>*/
-/*                     <div class="portfolio-caption">*/
-/*                         <h4>Недвижимость</h4>*/
-/* 						*/
-/* 							<p class="text-muted">текст</p>*/
-/* 						*/
-/*                     </div>*/
-/*                 </div>*/
-/* 				<div class="col-md-4 col-sm-6 portfolio-item">*/
-/*                     <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">*/
-/*                         <div class="portfolio-hover">*/
-/*                             <div class="portfolio-hover-content">*/
-/*                                 <i class="fa fa-plus fa-3x"></i>*/
-/*                             </div>*/
-/*                         </div>*/
-/*                         <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">*/
-/*                     </a>*/
-/*                     <div class="portfolio-caption">*/
-/*                         <h4>Недвижимость</h4>*/
-/* 						*/
-/* 							<p class="text-muted">текст</p>*/
-/* 						*/
-/*                     </div>*/
-/*                 </div>*/
-/* 				<div class="col-md-4 col-sm-6 portfolio-item">*/
-/*                     <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">*/
-/*                         <div class="portfolio-hover">*/
-/*                             <div class="portfolio-hover-content">*/
-/*                                 <i class="fa fa-plus fa-3x"></i>*/
-/*                             </div>*/
-/*                         </div>*/
-/*                         <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">*/
-/*                     </a>*/
-/*                     <div class="portfolio-caption">*/
-/*                         <h4>Недвижимость</h4>*/
-/* 						*/
-/* 							<p class="text-muted">текст</p>*/
-/* 						*/
-/*                     </div>*/
-/*                 </div>*/
-/* 				<div class="col-md-4 col-sm-6 portfolio-item">*/
-/*                     <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">*/
-/*                         <div class="portfolio-hover">*/
-/*                             <div class="portfolio-hover-content">*/
-/*                                 <i class="fa fa-plus fa-3x"></i>*/
-/*                             </div>*/
-/*                         </div>*/
-/*                         <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">*/
-/*                     </a>*/
-/*                     <div class="portfolio-caption">*/
-/*                         <h4>Недвижимость</h4>*/
-/* 						*/
-/* 							<p class="text-muted">текст</p>*/
-/* 						*/
-/*                     </div>*/
-/*                 </div>*/
-/* 				<div class="col-md-4 col-sm-6 portfolio-item">*/
-/*                     <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">*/
-/*                         <div class="portfolio-hover">*/
-/*                             <div class="portfolio-hover-content">*/
-/*                                 <i class="fa fa-plus fa-3x"></i>*/
-/*                             </div>*/
-/*                         </div>*/
-/*                         <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">*/
-/*                     </a>*/
-/*                     <div class="portfolio-caption">*/
-/*                         <h4>Недвижимость</h4>*/
-/* 						*/
-/* 							<p class="text-muted">текст</p>*/
-/* 						*/
-/*                     </div>*/
-/*                 </div>*/
-/* 				<div class="col-md-4 col-sm-6 portfolio-item">*/
-/*                     <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">*/
-/*                         <div class="portfolio-hover">*/
-/*                             <div class="portfolio-hover-content">*/
-/*                                 <i class="fa fa-plus fa-3x"></i>*/
-/*                             </div>*/
-/*                         </div>*/
-/*                         <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">*/
-/*                     </a>*/
-/*                     <div class="portfolio-caption">*/
-/*                         <h4>Недвижимость</h4>*/
-/* 						*/
-/* 							<p class="text-muted">текст</p>*/
-/* 						*/
-/*                     </div>*/
-/*                 </div>*/
 /* */
-/*                 				*/
+/*             <div class="row">*/
+/*                 {% component 'myService' %}*/
 /*             </div>*/
 /*         </div>*/
 /*     </section>*/

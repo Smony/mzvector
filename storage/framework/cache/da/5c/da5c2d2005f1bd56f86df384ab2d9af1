@@ -1,4 +1,4 @@
-1460984185s:21936:"a:6:{s:5:"mtime";i:1460979159;s:7:"content";s:10828:"title = "Demonstration"
+1460988977s:12803:"a:6:{s:5:"mtime";i:1460986873;s:7:"content";s:6259:"title = "Demonstration"
 url = "/"
 layout = "default"
 is_hidden = 0
@@ -19,6 +19,8 @@ mapTypeId = "ROADMAP"
 showMarker = 1
 
 [myAbout]
+
+[myService]
 ==
 <!-- Services Section -->
 	<!--
@@ -68,106 +70,9 @@ showMarker = 1
                     <h3 class="section-subheading text-muted">Украина всегда стремится оказывать наиболее широкий спектр юридических услуг.</h3>
                 </div>
             </div>
-            <div class="row">
-			
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Недвижимость</h4>
-						
-							<p class="text-muted">текст</p>
-						
-                    </div>
-                </div>
-				<div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Недвижимость</h4>
-						
-							<p class="text-muted">текст</p>
-						
-                    </div>
-                </div>
-				<div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Недвижимость</h4>
-						
-							<p class="text-muted">текст</p>
-						
-                    </div>
-                </div>
-				<div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Недвижимость</h4>
-						
-							<p class="text-muted">текст</p>
-						
-                    </div>
-                </div>
-				<div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Недвижимость</h4>
-						
-							<p class="text-muted">текст</p>
-						
-                    </div>
-                </div>
-				<div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Недвижимость</h4>
-						
-							<p class="text-muted">текст</p>
-						
-                    </div>
-                </div>
 
-                				
+            <div class="row">
+                {% component 'myService' %}
             </div>
         </div>
     </section>
@@ -240,7 +145,7 @@ showMarker = 1
                 </div>
             </div>
         </div>
-    </section>";s:7:"viewBag";a:0:{}s:8:"settings";a:5:{s:5:"title";s:13:"Demonstration";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:10:"components";a:5:{s:8:"myClient";a:0:{}s:8:"myExpert";a:0:{}s:9:"myContact";a:0:{}s:9:"googleMap";a:7:{s:8:"latitude";s:10:"50.6140978";s:9:"longitude";s:10:"26.2735943";s:4:"zoom";s:2:"12";s:5:"width";s:4:"100%";s:6:"height";s:5:"360px";s:9:"mapTypeId";s:7:"ROADMAP";s:10:"showMarker";s:1:"1";}s:7:"myAbout";a:0:{}}}s:4:"code";N;s:6:"markup";s:10551:"<!-- Services Section -->
+    </section>";s:7:"viewBag";a:0:{}s:8:"settings";a:5:{s:5:"title";s:13:"Demonstration";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:10:"components";a:6:{s:8:"myClient";a:0:{}s:8:"myExpert";a:0:{}s:9:"myContact";a:0:{}s:9:"googleMap";a:7:{s:8:"latitude";s:10:"50.6140978";s:9:"longitude";s:10:"26.2735943";s:4:"zoom";s:2:"12";s:5:"width";s:4:"100%";s:6:"height";s:5:"360px";s:9:"mapTypeId";s:7:"ROADMAP";s:10:"showMarker";s:1:"1";}s:7:"myAbout";a:0:{}s:9:"myService";a:0:{}}}s:4:"code";N;s:6:"markup";s:5967:"<!-- Services Section -->
 	<!--
     <section id="services">
         <div class="container">
@@ -288,106 +193,9 @@ showMarker = 1
                     <h3 class="section-subheading text-muted">Украина всегда стремится оказывать наиболее широкий спектр юридических услуг.</h3>
                 </div>
             </div>
-            <div class="row">
-			
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Недвижимость</h4>
-						
-							<p class="text-muted">текст</p>
-						
-                    </div>
-                </div>
-				<div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Недвижимость</h4>
-						
-							<p class="text-muted">текст</p>
-						
-                    </div>
-                </div>
-				<div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Недвижимость</h4>
-						
-							<p class="text-muted">текст</p>
-						
-                    </div>
-                </div>
-				<div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Недвижимость</h4>
-						
-							<p class="text-muted">текст</p>
-						
-                    </div>
-                </div>
-				<div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Недвижимость</h4>
-						
-							<p class="text-muted">текст</p>
-						
-                    </div>
-                </div>
-				<div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="http://mzvector.com.ua/storage/app/media/1.jpg" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Недвижимость</h4>
-						
-							<p class="text-muted">текст</p>
-						
-                    </div>
-                </div>
 
-                				
+            <div class="row">
+                {% component 'myService' %}
             </div>
         </div>
     </section>
