@@ -1,4 +1,4 @@
-1460988142s:1677:"a:2:{s:5:"mtime";i:1460987539;s:7:"content";s:1622:"{% for service in myService.getServices %}
+1460995940s:1677:"a:2:{s:5:"mtime";i:1460987539;s:7:"content";s:1622:"{% for service in myService.getServices %}
 <div class="col-md-4 col-sm-6 portfolio-item">
     <a href="#portfolioModal{{ service.id }}" class="portfolio-link" data-toggle="modal">
         <img src="{{ service.attachments.path }}" class="img-responsive" alt="{{ service.attachments.title }}">

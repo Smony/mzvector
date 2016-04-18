@@ -204,8 +204,8 @@ class __TwigTemplate_795ded02071d9e61c8748c24af0be1a0ff3d6cbe322de96369eb174d702
                 .'/modules/system/assets/js/framework.js"></script>'.PHP_EOL;
         echo '<script src="'. Request::getBasePath()
                     .'/modules/system/assets/js/framework.extras.js"></script>'.PHP_EOL;
-        echo '<link href="'. Request::getBasePath()
-                    .'/modules/system/assets/css/framework.extras.css" rel="stylesheet">'.PHP_EOL;
+        echo '<link rel="stylesheet" property="stylesheet" href="'. Request::getBasePath()
+                    .'/modules/system/assets/css/framework.extras.css">'.PHP_EOL;
         // line 123
         echo "        ";
         echo $this->env->getExtension('CMS')->assetsFunction('js');

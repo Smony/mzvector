@@ -78,11 +78,7 @@ class Plugin extends PluginBase
                         'icon'        => 'icon-tags',
                         'url'         => \Backend::url('smony/service/service'),
                     ],
-                    'head' => [
-                        'label'       => 'Head Text',
-                        'icon'        => 'icon-book',
-                        'url'         => \Backend::url('smony/service/head'),
-                    ],
+                    
                 ]
 
             ],

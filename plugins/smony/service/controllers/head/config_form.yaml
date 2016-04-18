@@ -1,0 +1,31 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: Head
+
+# Model Form Field configuration
+form: $/smony/service/models/head/fields.yaml
+
+# Model Class name
+modelClass: Smony\Service\Models\Head
+
+# Default redirect location
+defaultRedirect: smony/service/head
+
+# Create page
+create:
+    title: Create Head
+    redirect: smony/service/head/update/:id
+    redirectClose: smony/service/head
+
+# Update page
+update:
+    title: Edit Head
+    redirect: smony/service/head
+    redirectClose: smony/service/head
+
+# Preview page
+preview:
+    title: Preview Head

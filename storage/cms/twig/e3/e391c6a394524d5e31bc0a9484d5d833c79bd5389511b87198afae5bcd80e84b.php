@@ -58,6 +58,7 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
     <!-- Portfolio Grid Section -->
     <section id=\"services\" class=\"bg-light-gray\">
         <div class=\"container\">
+
             <div class=\"row\">
                 <div class=\"col-lg-12 text-center\">
                     <h2 class=\"section-heading\">УСЛУГИ</h2>
@@ -67,38 +68,38 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
 
             <div class=\"row\">
                 ";
-        // line 51
+        // line 52
         $context['__cms_component_params'] = [];
         echo $this->env->getExtension('CMS')->componentFunction("myService"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
-        // line 52
+        // line 53
         echo "            </div>
         </div>
     </section>
 
     <!-- About Section -->
     ";
-        // line 57
+        // line 58
         $context['__cms_component_params'] = [];
         echo $this->env->getExtension('CMS')->componentFunction("myAbout"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
-        // line 58
+        // line 59
         echo "
     <!-- Team Section -->
     ";
-        // line 60
+        // line 61
         $context['__cms_component_params'] = [];
         echo $this->env->getExtension('CMS')->componentFunction("myExpert"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
-        // line 61
+        // line 62
         echo "    
     <!-- Clients Aside -->
     ";
-        // line 63
+        // line 64
         $context['__cms_component_params'] = [];
         echo $this->env->getExtension('CMS')->componentFunction("myClient"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
-        // line 64
+        // line 65
         echo "
 
     <!-- Contact Section -->
@@ -110,78 +111,14 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
                     <h3 class=\"section-subheading text-muted\">Для связи с нами используйте форму ниже либо указанную контактную информацию.</h3>
                 </div>
             </div>
-            <div class=\"row\">
-                <div class=\"col-lg-12\">
-                    <form name=\"sentMessage\" id=\"contactForm\" novalidate>
-                        <div class=\"row\">
-                            <div class=\"col-md-6\">
 
-
-                                ";
-        // line 82
-        $context['_parent'] = $context;
-        $context['_seq'] = twig_ensure_traversable($this->getAttribute((isset($context["myContact"]) ? $context["myContact"] : null), "getContact", array()));
-        foreach ($context['_seq'] as $context["_key"] => $context["contact"]) {
-            // line 83
-            echo "
-                                <div class=\"cont-list\"><i class=\"fa fa-map-marker\"></i>&nbsp;&nbsp;&nbsp;";
-            // line 84
-            echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "address", array()), "html", null, true);
-            echo "</div>
-                                <div class=\"cont-list\"><i class=\"fa fa-phone\"></i>&nbsp;&nbsp;&nbsp;";
-            // line 85
-            echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "phone", array()), "html", null, true);
-            echo "</div>
-                                <div class=\"cont-list\"><i class=\"fa fa-envelope\"></i>&nbsp;&nbsp;&nbsp;";
-            // line 86
-            echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "email", array()), "html", null, true);
-            echo "</div>
-
-                                ";
-        }
-        $_parent = $context['_parent'];
-        unset($context['_seq'], $context['_iterated'], $context['_key'], $context['contact'], $context['_parent'], $context['loop']);
-        $context = array_intersect_key($context, $_parent) + $_parent;
-        // line 89
-        echo "
-
-                                <div class=\"map_site\">";
-        // line 91
+            ";
+        // line 77
         $context['__cms_component_params'] = [];
-        echo $this->env->getExtension('CMS')->componentFunction("googleMap"        , $context['__cms_component_params']        );
+        echo $this->env->getExtension('CMS')->componentFunction("feedback"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
-        echo "</div>
-
-                            </div>
-                            <div class=\"col-md-6\">
-
-    <div class=\"form-group\">
-        <input type=\"text\" class=\"form-control\" placeholder=\"Your Name *\" id=\"name\" required data-validation-required-message=\"Please enter your name.\">
-        <p class=\"help-block text-danger\"></p>
-    </div>
-    <div class=\"form-group\">
-        <input type=\"email\" class=\"form-control\" placeholder=\"Your Email *\" id=\"email\" required data-validation-required-message=\"Please enter your email address.\">
-        <p class=\"help-block text-danger\"></p>
-    </div>
-    <div class=\"form-group\">
-        <input type=\"tel\" class=\"form-control\" placeholder=\"Your Phone *\" id=\"phone\" required data-validation-required-message=\"Please enter your phone number.\">
-        <p class=\"help-block text-danger\"></p>
-    </div>
-    <div class=\"form-group\">
-        <textarea class=\"form-control\" placeholder=\"Your Message *\" id=\"message\" required data-validation-required-message=\"Please enter a message.\"></textarea>
-        <p class=\"help-block text-danger\"></p>
-    </div>
-
-                            </div>
-                            <div class=\"clearfix\"></div>
-                            <div class=\"col-lg-12 text-right\">
-                                <div id=\"success\"></div>
-                                <button type=\"submit\" class=\"btn btn-xl\">Надіслати повідомлення</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
+        // line 78
+        echo "
         </div>
     </section>";
     }
@@ -198,7 +135,7 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
 
     public function getDebugInfo()
     {
-        return array (  150 => 91,  146 => 89,  137 => 86,  133 => 85,  129 => 84,  126 => 83,  122 => 82,  102 => 64,  98 => 63,  94 => 61,  90 => 60,  86 => 58,  82 => 57,  75 => 52,  71 => 51,  19 => 1,);
+        return array (  121 => 78,  117 => 77,  103 => 65,  99 => 64,  95 => 62,  91 => 61,  87 => 59,  83 => 58,  76 => 53,  72 => 52,  19 => 1,);
     }
 }
 /* <!-- Services Section -->*/
@@ -243,6 +180,7 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
 /*     <!-- Portfolio Grid Section -->*/
 /*     <section id="services" class="bg-light-gray">*/
 /*         <div class="container">*/
+/* */
 /*             <div class="row">*/
 /*                 <div class="col-lg-12 text-center">*/
 /*                     <h2 class="section-heading">УСЛУГИ</h2>*/
@@ -275,53 +213,8 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
 /*                     <h3 class="section-subheading text-muted">Для связи с нами используйте форму ниже либо указанную контактную информацию.</h3>*/
 /*                 </div>*/
 /*             </div>*/
-/*             <div class="row">*/
-/*                 <div class="col-lg-12">*/
-/*                     <form name="sentMessage" id="contactForm" novalidate>*/
-/*                         <div class="row">*/
-/*                             <div class="col-md-6">*/
 /* */
+/*             {% component 'feedback' %}*/
 /* */
-/*                                 {% for contact in myContact.getContact %}*/
-/* */
-/*                                 <div class="cont-list"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;&nbsp;{{ contact.address }}</div>*/
-/*                                 <div class="cont-list"><i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;{{ contact.phone }}</div>*/
-/*                                 <div class="cont-list"><i class="fa fa-envelope"></i>&nbsp;&nbsp;&nbsp;{{ contact.email }}</div>*/
-/* */
-/*                                 {% endfor %}*/
-/* */
-/* */
-/*                                 <div class="map_site">{% component 'googleMap' %}</div>*/
-/* */
-/*                             </div>*/
-/*                             <div class="col-md-6">*/
-/* */
-/*     <div class="form-group">*/
-/*         <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">*/
-/*         <p class="help-block text-danger"></p>*/
-/*     </div>*/
-/*     <div class="form-group">*/
-/*         <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">*/
-/*         <p class="help-block text-danger"></p>*/
-/*     </div>*/
-/*     <div class="form-group">*/
-/*         <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required data-validation-required-message="Please enter your phone number.">*/
-/*         <p class="help-block text-danger"></p>*/
-/*     </div>*/
-/*     <div class="form-group">*/
-/*         <textarea class="form-control" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>*/
-/*         <p class="help-block text-danger"></p>*/
-/*     </div>*/
-/* */
-/*                             </div>*/
-/*                             <div class="clearfix"></div>*/
-/*                             <div class="col-lg-12 text-right">*/
-/*                                 <div id="success"></div>*/
-/*                                 <button type="submit" class="btn btn-xl">Надіслати повідомлення</button>*/
-/*                             </div>*/
-/*                         </div>*/
-/*                     </form>*/
-/*                 </div>*/
-/*             </div>*/
 /*         </div>*/
 /*     </section>*/
