@@ -31,10 +31,10 @@ class Plugin extends PluginBase
      */
     public function registerComponents()
     {
-        return []; // Remove this line to activate
+        #return []; // Remove this line to activate
 
         return [
-            'Smony\About\Components\MyComponent' => 'myComponent',
+            'Smony\About\Components\About' => 'myAbout',
         ];
     }
 

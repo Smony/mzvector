@@ -6,8 +6,6 @@ fields:
     id:
         label: ID
         disabled: true
-    text_head:
-        label: TEXT TOP
     attachments:
         label: AVATAR
         type: fileupload
@@ -21,6 +19,4 @@ fields:
         label: FACEBOOK
     in:
         label: LINKEDIN
-    text_foot:
-        label: TEXT BOTTON
 

@@ -7,5 +7,7 @@ fields:
         label: ID
         disabled: true
     text_muted:
-        label: Text
-        disabled: false
+        label: Text Title
+    text:
+        label: Description
+        type: richeditor

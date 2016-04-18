@@ -184,7 +184,7 @@ class __TwigTemplate_795ded02071d9e61c8748c24af0be1a0ff3d6cbe322de96369eb174d702
         echo "                </div>
                 <div class=\"col-md-4\">
                     <ul class=\"list-inline quicklinks\">
-                        <li>Designed  by<a href=\"http://symonchuk.com/\" target=\"_blank\"> Symonchuk</a>
+                        <li>Created by<a href=\"http://symonchuk.com/\" target=\"_blank\"> Symonchuk</a>
                         </li>
                     </ul>
                 </div>
@@ -335,7 +335,7 @@ class __TwigTemplate_795ded02071d9e61c8748c24af0be1a0ff3d6cbe322de96369eb174d702
 /*                 </div>*/
 /*                 <div class="col-md-4">*/
 /*                     <ul class="list-inline quicklinks">*/
-/*                         <li>Designed  by<a href="http://symonchuk.com/" target="_blank"> Symonchuk</a>*/
+/*                         <li>Created by<a href="http://symonchuk.com/" target="_blank"> Symonchuk</a>*/
 /*                         </li>*/
 /*                     </ul>*/
 /*                 </div>*/

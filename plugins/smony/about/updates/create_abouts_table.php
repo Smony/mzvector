@@ -13,6 +13,7 @@ class CreateAboutsTable extends Migration
             $table->engine = 'InnoDB';
             $table->increments('id');
             $table->string('text_muted');
+            $table->text('text');
             $table->timestamps();
         });
     }

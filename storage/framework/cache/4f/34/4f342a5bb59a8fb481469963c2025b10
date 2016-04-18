@@ -1,4 +1,4 @@
-1460857354s:11062:"a:6:{s:5:"mtime";i:1460856752;s:7:"content";s:5447:"description = "Default layout"
+1460984185s:11058:"a:6:{s:5:"mtime";i:1460867030;s:7:"content";s:5445:"description = "Default layout"
 
 [myHead]
 ==
@@ -106,7 +106,7 @@
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
-                        <li>Designed  by<a href="http://symonchuk.com/" target="_blank"> Symonchuk</a>
+                        <li>Created by<a href="http://symonchuk.com/" target="_blank"> Symonchuk</a>
                         </li>
                     </ul>
                 </div>
@@ -127,7 +127,7 @@
         {% scripts %}
 
     </body>
-</html>";s:7:"viewBag";a:0:{}s:8:"settings";a:2:{s:11:"description";s:14:"Default layout";s:10:"components";a:1:{s:6:"myHead";a:0:{}}}s:4:"code";N;s:6:"markup";s:5399:"<!DOCTYPE html>
+</html>";s:7:"viewBag";a:0:{}s:8:"settings";a:2:{s:11:"description";s:14:"Default layout";s:10:"components";a:1:{s:6:"myHead";a:0:{}}}s:4:"code";N;s:6:"markup";s:5397:"<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -231,7 +231,7 @@
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
-                        <li>Designed  by<a href="http://symonchuk.com/" target="_blank"> Symonchuk</a>
+                        <li>Created by<a href="http://symonchuk.com/" target="_blank"> Symonchuk</a>
                         </li>
                     </ul>
                 </div>

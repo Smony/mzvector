@@ -1,0 +1,64 @@
+<?php
+
+/* F:\Dropbox\OpenServer\domains\mzvector.local/plugins/smony/about/components/about/default.htm */
+class __TwigTemplate_849ec22fed375b92a2f33943f0592ad28bbe13e49924b724f728c68da919c200 extends Twig_Template
+{
+    public function __construct(Twig_Environment $env)
+    {
+        parent::__construct($env);
+
+        $this->parent = false;
+
+        $this->blocks = array(
+        );
+    }
+
+    protected function doDisplay(array $context, array $blocks = array())
+    {
+        // line 1
+        echo "<section id=\"about\">
+    <div class=\"container\">
+        <div class=\"row\">
+            <div class=\"col-lg-12 text-center\">
+                <h2 class=\"section-heading\">О Компании</h2>
+                <h3 class=\"section-subheading text-muted\">Украина всегда стремится оказывать наиболее широкий спектр юридических услуг.</h3>
+            </div>
+        </div>
+        <div class=\"row\">
+            <div class=\"col-lg-12\">
+
+                <div style=\"height: 400px;\"></div>
+
+            </div>
+        </div>
+    </div>
+</section>";
+    }
+
+    public function getTemplateName()
+    {
+        return "F:\\Dropbox\\OpenServer\\domains\\mzvector.local/plugins/smony/about/components/about/default.htm";
+    }
+
+    public function getDebugInfo()
+    {
+        return array (  19 => 1,);
+    }
+}
+/* <section id="about">*/
+/*     <div class="container">*/
+/*         <div class="row">*/
+/*             <div class="col-lg-12 text-center">*/
+/*                 <h2 class="section-heading">О Компании</h2>*/
+/*                 <h3 class="section-subheading text-muted">Украина всегда стремится оказывать наиболее широкий спектр юридических услуг.</h3>*/
+/*             </div>*/
+/*         </div>*/
+/*         <div class="row">*/
+/*             <div class="col-lg-12">*/
+/* */
+/*                 <div style="height: 400px;"></div>*/
+/* */
+/*             </div>*/
+/*         </div>*/
+/*     </div>*/
+/* </section>*/

@@ -169,39 +169,28 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
     </section>
 
     <!-- About Section -->
-    <section id=\"about\">
-        <div class=\"container\">
-            <div class=\"row\">
-                <div class=\"col-lg-12 text-center\">
-                    <h2 class=\"section-heading\">О Компании</h2>
-                    <h3 class=\"section-subheading text-muted\">Украина всегда стремится оказывать наиболее широкий спектр юридических услуг.</h3>
-                </div>
-            </div>
-            <div class=\"row\">
-                <div class=\"col-lg-12\">
-\t\t\t\t
-                    <div style=\"height: 400px;\"></div>
-\t\t\t\t\t
-                </div>
-            </div>
-        </div>
-    </section>
-
+    ";
+        // line 154
+        $context['__cms_component_params'] = [];
+        echo $this->env->getExtension('CMS')->componentFunction("myAbout"        , $context['__cms_component_params']        );
+        unset($context['__cms_component_params']);
+        // line 155
+        echo "
     <!-- Team Section -->
     ";
-        // line 173
+        // line 157
         $context['__cms_component_params'] = [];
         echo $this->env->getExtension('CMS')->componentFunction("myExpert"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
-        // line 174
+        // line 158
         echo "    
     <!-- Clients Aside -->
     ";
-        // line 176
+        // line 160
         $context['__cms_component_params'] = [];
         echo $this->env->getExtension('CMS')->componentFunction("myClient"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
-        // line 177
+        // line 161
         echo "
 
     <!-- Contact Section -->
@@ -221,22 +210,22 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
 
 
                                 ";
-        // line 195
+        // line 179
         $context['_parent'] = $context;
         $context['_seq'] = twig_ensure_traversable($this->getAttribute((isset($context["myContact"]) ? $context["myContact"] : null), "getContact", array()));
         foreach ($context['_seq'] as $context["_key"] => $context["contact"]) {
-            // line 196
+            // line 180
             echo "
                                 <div class=\"cont-list\"><i class=\"fa fa-map-marker\"></i>&nbsp;&nbsp;&nbsp;";
-            // line 197
+            // line 181
             echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "address", array()), "html", null, true);
             echo "</div>
                                 <div class=\"cont-list\"><i class=\"fa fa-phone\"></i>&nbsp;&nbsp;&nbsp;";
-            // line 198
+            // line 182
             echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "phone", array()), "html", null, true);
             echo "</div>
                                 <div class=\"cont-list\"><i class=\"fa fa-envelope\"></i>&nbsp;&nbsp;&nbsp;";
-            // line 199
+            // line 183
             echo twig_escape_filter($this->env, $this->getAttribute($context["contact"], "email", array()), "html", null, true);
             echo "</div>
 
@@ -245,11 +234,11 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
         $_parent = $context['_parent'];
         unset($context['_seq'], $context['_iterated'], $context['_key'], $context['contact'], $context['_parent'], $context['loop']);
         $context = array_intersect_key($context, $_parent) + $_parent;
-        // line 202
+        // line 186
         echo "
 
                                 <div class=\"map_site\">";
-        // line 204
+        // line 188
         $context['__cms_component_params'] = [];
         echo $this->env->getExtension('CMS')->componentFunction("googleMap"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
@@ -257,22 +246,24 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
 
                             </div>
                             <div class=\"col-md-6\">
-                                <div class=\"form-group\">
-                                    <input type=\"text\" class=\"form-control\" placeholder=\"Your Name *\" id=\"name\" required data-validation-required-message=\"Please enter your name.\">
-                                    <p class=\"help-block text-danger\"></p>
-                                </div>
-                                <div class=\"form-group\">
-                                    <input type=\"email\" class=\"form-control\" placeholder=\"Your Email *\" id=\"email\" required data-validation-required-message=\"Please enter your email address.\">
-                                    <p class=\"help-block text-danger\"></p>
-                                </div>
-                                <div class=\"form-group\">
-                                    <input type=\"tel\" class=\"form-control\" placeholder=\"Your Phone *\" id=\"phone\" required data-validation-required-message=\"Please enter your phone number.\">
-                                    <p class=\"help-block text-danger\"></p>
-                                </div>
-                                <div class=\"form-group\">
-                                    <textarea class=\"form-control\" placeholder=\"Your Message *\" id=\"message\" required data-validation-required-message=\"Please enter a message.\"></textarea>
-                                    <p class=\"help-block text-danger\"></p>
-                                </div>
+
+    <div class=\"form-group\">
+        <input type=\"text\" class=\"form-control\" placeholder=\"Your Name *\" id=\"name\" required data-validation-required-message=\"Please enter your name.\">
+        <p class=\"help-block text-danger\"></p>
+    </div>
+    <div class=\"form-group\">
+        <input type=\"email\" class=\"form-control\" placeholder=\"Your Email *\" id=\"email\" required data-validation-required-message=\"Please enter your email address.\">
+        <p class=\"help-block text-danger\"></p>
+    </div>
+    <div class=\"form-group\">
+        <input type=\"tel\" class=\"form-control\" placeholder=\"Your Phone *\" id=\"phone\" required data-validation-required-message=\"Please enter your phone number.\">
+        <p class=\"help-block text-danger\"></p>
+    </div>
+    <div class=\"form-group\">
+        <textarea class=\"form-control\" placeholder=\"Your Message *\" id=\"message\" required data-validation-required-message=\"Please enter a message.\"></textarea>
+        <p class=\"help-block text-danger\"></p>
+    </div>
+
                             </div>
                             <div class=\"clearfix\"></div>
                             <div class=\"col-lg-12 text-right\">
@@ -299,7 +290,7 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
 
     public function getDebugInfo()
     {
-        return array (  253 => 204,  249 => 202,  240 => 199,  236 => 198,  232 => 197,  229 => 196,  225 => 195,  205 => 177,  201 => 176,  197 => 174,  193 => 173,  19 => 1,);
+        return array (  242 => 188,  238 => 186,  229 => 183,  225 => 182,  221 => 181,  218 => 180,  214 => 179,  194 => 161,  190 => 160,  186 => 158,  182 => 157,  178 => 155,  174 => 154,  19 => 1,);
     }
 }
 /* <!-- Services Section -->*/
@@ -455,23 +446,7 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
 /*     </section>*/
 /* */
 /*     <!-- About Section -->*/
-/*     <section id="about">*/
-/*         <div class="container">*/
-/*             <div class="row">*/
-/*                 <div class="col-lg-12 text-center">*/
-/*                     <h2 class="section-heading">О Компании</h2>*/
-/*                     <h3 class="section-subheading text-muted">Украина всегда стремится оказывать наиболее широкий спектр юридических услуг.</h3>*/
-/*                 </div>*/
-/*             </div>*/
-/*             <div class="row">*/
-/*                 <div class="col-lg-12">*/
-/* 				*/
-/*                     <div style="height: 400px;"></div>*/
-/* 					*/
-/*                 </div>*/
-/*             </div>*/
-/*         </div>*/
-/*     </section>*/
+/*     {% component 'myAbout' %}*/
 /* */
 /*     <!-- Team Section -->*/
 /*     {% component 'myExpert' %}*/
@@ -509,22 +484,24 @@ class __TwigTemplate_a1a2f7802bc1321b7a16b07489eb904412cdd2b30d6f83af9cdbee524c8
 /* */
 /*                             </div>*/
 /*                             <div class="col-md-6">*/
-/*                                 <div class="form-group">*/
-/*                                     <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">*/
-/*                                     <p class="help-block text-danger"></p>*/
-/*                                 </div>*/
-/*                                 <div class="form-group">*/
-/*                                     <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">*/
-/*                                     <p class="help-block text-danger"></p>*/
-/*                                 </div>*/
-/*                                 <div class="form-group">*/
-/*                                     <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required data-validation-required-message="Please enter your phone number.">*/
-/*                                     <p class="help-block text-danger"></p>*/
-/*                                 </div>*/
-/*                                 <div class="form-group">*/
-/*                                     <textarea class="form-control" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>*/
-/*                                     <p class="help-block text-danger"></p>*/
-/*                                 </div>*/
+/* */
+/*     <div class="form-group">*/
+/*         <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">*/
+/*         <p class="help-block text-danger"></p>*/
+/*     </div>*/
+/*     <div class="form-group">*/
+/*         <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">*/
+/*         <p class="help-block text-danger"></p>*/
+/*     </div>*/
+/*     <div class="form-group">*/
+/*         <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required data-validation-required-message="Please enter your phone number.">*/
+/*         <p class="help-block text-danger"></p>*/
+/*     </div>*/
+/*     <div class="form-group">*/
+/*         <textarea class="form-control" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>*/
+/*         <p class="help-block text-danger"></p>*/
+/*     </div>*/
+/* */
 /*                             </div>*/
 /*                             <div class="clearfix"></div>*/
 /*                             <div class="col-lg-12 text-right">*/
